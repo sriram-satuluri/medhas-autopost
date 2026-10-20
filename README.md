@@ -9,6 +9,7 @@ Planner: https://sriram-satuluri.github.io/medhas-autopost/
 - Each day in `queue.json` is one grid row: **right carousel → reel → left carousel**. Posted in that order, the row reads Left, Middle, Right on the profile.
 - The days are in colour order: green first, then Ashoka blue, then sandalwood into saffron. The first posted sits lowest, so the finished profile reads **saffron over white/blue over green**, like the flag.
 - Every 15 minutes the bot checks. After `post_time` it posts the **next approved day**, once per date. Days with `"approved": false` are skipped.
+- Festival days carry a fixed `"date"` (Dhanteras 6 Nov, Diwali 8 Nov 2026). They go out on that date only, never late, and the other days step around them. Teasers on the slides say "Next:", so they stay true either way.
 - If the bot misses a day (GitHub outage, paused), it never doubles up; the queue simply moves on a day.
 - If a post fails, the run goes red (GitHub emails you) and the next run retries from the same post, so the grid order is kept. After 8 failed tries on one platform it gives up on that platform for that day and moves on.
 

@@ -135,10 +135,11 @@ const time12 = (hm) => { const [h, m] = hm.split(':').map(Number); return `${((h
 function plan() {
   const S = Q.settings, today = zoned(S.timezone);
   const used = new Set(Object.values(ST.days).map((s) => s.date).filter(Boolean));
+  // Fixed-date festival days keep their date; the rolling days step around them.
+  Q.days.filter((d) => d.date && d.approved && d.date >= today.date).forEach((d) => used.add(d.date));
   let cursor = S.start_date > today.date ? S.start_date : today.date;
   const free = (d) => !used.has(d) && !(S.skip_dates || []).includes(d);
   const out = [];
-  let nextMarked = false;
   for (const d of Q.days) {
     const s = ST.days[d.id];
     const done = (pl) => d.posts.every((p) => s?.posts?.[p.slot]?.[pl]?.id);
@@ -148,15 +149,18 @@ function plan() {
       date = s.date;
       state = settled ? (S.platforms.every(done) ? 'posted' : 'partial') : Object.keys(s.errors || {}).length ? 'retrying' : 'posting';
     } else if (!d.approved) {
-      state = 'held';
+      state = 'held'; date = d.date || null;
+    } else if (d.date) {
+      date = d.date; state = d.date < today.date ? 'missed' : 'scheduled';
     } else {
       while (!free(cursor)) cursor = addDay(cursor);
       date = cursor; cursor = addDay(cursor);
-      state = nextMarked ? 'scheduled' : 'next';
-      nextMarked = true;
+      state = 'scheduled';
     }
     out.push({ d, s, state, date });
   }
+  const upcoming = out.filter((r) => r.state === 'scheduled').sort((a, b) => (a.date < b.date ? -1 : 1))[0];
+  if (upcoming) upcoming.state = 'next';
   return out;
 }
 
@@ -193,7 +197,7 @@ function grid(rows) {
     return tile(p.thumb, { up: up && !ig, reel: slot === 'reel', tag: slot === 'left' && r.date ? nice(r.date) : '', href: ig?.permalink });
   }).join('');
   const live = rows.filter((r) => r.s?.started).sort((a, b) => (b.s.started > a.s.started ? 1 : -1));
-  const queued = rows.filter((r) => !r.s?.started && r.date).reverse();
+  const queued = rows.filter((r) => !r.s?.started && r.date && ['next', 'scheduled'].includes(r.state)).sort((a, b) => (a.date < b.date ? 1 : -1));
   let html = '';
   if (showUp && queued.length) html += `<div class="divider">Queued · newest on top</div>` + queued.map((r) => row(r, true)).join('');
   if (live.length) html += `<div class="divider">Posted by the bot</div>` + live.map((r) => row(r, false)).join('');
@@ -203,7 +207,7 @@ function grid(rows) {
 
 function days(rows) {
   const authed = !!store.get('gh_token');
-  const label = { posted: ['ok', 'Posted'], partial: ['warn', 'Partly posted'], retrying: ['bad', 'Retrying'], posting: ['warn', 'Posting'], held: ['', 'Held'], next: ['ok', 'Next up'], scheduled: ['', 'Scheduled'] };
+  const label = { posted: ['ok', 'Posted'], partial: ['warn', 'Partly posted'], retrying: ['bad', 'Retrying'], posting: ['warn', 'Posting'], held: ['', 'Held'], next: ['ok', 'Next up'], scheduled: ['', 'Scheduled'], missed: ['bad', 'Date passed'] };
   $('#days').innerHTML = rows.map((r, i) => {
     const { d, s, state } = r;
     const [cls, text] = label[state];
@@ -224,11 +228,11 @@ function days(rows) {
     const canMove = !s?.started;
     const ctrl = authed && canMove ? `<div class="controls">
       <button data-act="approve" data-i="${i}">${d.approved ? 'Hold this day' : 'Approve'}</button>
-      <button data-act="up" data-i="${i}" ${i === 0 || rows[i - 1].s?.started ? 'disabled' : ''}>Move earlier</button>
-      <button data-act="down" data-i="${i}" ${i === rows.length - 1 ? 'disabled' : ''}>Move later</button></div>` : '';
+      ${d.date ? '' : `<button data-act="up" data-i="${i}" ${i === 0 || rows[i - 1].s?.started ? 'disabled' : ''}>Move earlier</button>
+      <button data-act="down" data-i="${i}" ${i === rows.length - 1 ? 'disabled' : ''}>Move later</button>`}</div>` : '';
     const review = d.review?.length && !s?.started ? `<div class="review"><b>Fact check notes</b> (verse numbers to confirm; slides cite the chapter only)<ul>${d.review.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>` : '';
     return `<article class="day ${state === 'held' ? 'held' : ''} ${state === 'next' ? 'next' : ''}">
-      <div class="dayhead"><span class="when">${r.date ? `${nice(r.date)} · ${time12(Q.settings.post_time)}` : 'not scheduled'}</span><h3>${esc(d.title)}</h3><span class="badge ${cls}">${text}</span></div>
+      <div class="dayhead"><span class="when">${r.date ? `${nice(r.date)} · ${time12(Q.settings.post_time)}` : 'not scheduled'}</span><h3>${esc(d.title)}</h3>${d.date ? '<span class="badge warn">Fixed date</span>' : ''}<span class="badge ${cls}">${text}</span></div>
       ${review}${errs}<div class="posts">${posts}</div>${ctrl}</article>`;
   }).join('');
 }

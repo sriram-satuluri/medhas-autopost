@@ -8,6 +8,7 @@
 //      is never left broken. Instagram goes right, reel, left; Facebook follows the same order.
 //   3. Otherwise, once a day after settings.post_time (in settings.timezone), the next approved day in
 //      queue order goes out. Held days are skipped. If the bot was down, it never posts two days at once.
+//   4. A day with a "date" (a festival) goes out on that date instead, and only on it.
 //
 // Usage: node publisher/publish.mjs [--now] [--dry-run]
 //   --now      ignore the post time for today (manual "post now" from the Actions tab)
@@ -217,7 +218,11 @@ function pickDay(today) {
   if (usedToday) return { why: `today's slot already went to ${usedToday[0]}` };
   const [h, m] = S.post_time.split(':').map(Number);
   if (!NOW && today.minutes < h * 60 + m) return { why: `post time is ${S.post_time} ${S.timezone}` };
-  const next = queue.days.find((d) => d.approved && !status.days[d.id]?.started);
+  // A festival day carries its own "date": it goes out on that date only (never late), and the
+  // rolling queue steps around it.
+  const pinned = queue.days.find((d) => d.date === today.date && d.approved && !status.days[d.id]?.started);
+  if (pinned) return { d: pinned, why: `fixed for ${today.date}` };
+  const next = queue.days.find((d) => !d.date && d.approved && !status.days[d.id]?.started);
   return next ? { d: next, why: 'next approved day' } : { why: 'queue is empty: every approved day has gone out' };
 }
 
@@ -242,6 +247,7 @@ async function dryRun() {
   const seen = new Set();
   for (const d of queue.days) {
     if (seen.has(d.id)) problems.push(`${d.id}: duplicate id`);
+    if (d.date && !/^\d{4}-\d{2}-\d{2}$/.test(d.date)) problems.push(`${d.id}: date must be YYYY-MM-DD, found ${d.date}`);
     seen.add(d.id);
     const slots = d.posts.map((p) => p.slot).join(',');
     if (slots !== ORDER.join(',')) problems.push(`${d.id}: posts must be ${ORDER.join(', ')}, found ${slots}`);
