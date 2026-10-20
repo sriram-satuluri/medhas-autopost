@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MEDHAS Social Planner</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --emerald: #1C6B58; --gold: #C29A4E; --ink: #0E2E28; --teal: #2A7A72; --bone: #F5F1E8;
+    --bg: #F5F1E8; --panel: #FFFDF8; --text: #0E2E28; --muted: #5b6f69; --line: #e3dccb;
+    --ok: #1C6B58; --warn: #a8761f; --bad: #b3423f; --chip: #efe8d8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0b1f1b; --panel: #122a25; --text: #eef2ee; --muted: #9fb3ad; --line: #24413a;
+      --chip: #1a3832; --ok: #7FB76F; --warn: #d9b26a; --bad: #e58a85;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0b1f1b; --panel: #122a25; --text: #eef2ee; --muted: #9fb3ad; --line: #24413a;
+    --chip: #1a3832; --ok: #7FB76F; --warn: #d9b26a; --bad: #e58a85;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 Inter, system-ui, sans-serif; }
+  header { padding: 28px 16px 8px; max-width: 1240px; margin: 0 auto; }
+  h1 { font: 600 30px/1.15 "Playfair Display", serif; margin: 0 0 4px; }
+  h1 em { color: var(--emerald); }
+  :root[data-theme="dark"] h1 em { color: var(--ok); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) h1 em { color: var(--ok); } }
+  .sub { color: var(--muted); margin: 0; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 4px; }
+  .chip { background: var(--chip); border-radius: 999px; padding: 6px 12px; font-size: 13px; }
+  .chip b { font-weight: 600; }
+  .mono { font-family: "IBM Plex Mono", monospace; font-size: 12px; letter-spacing: .04em; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; vertical-align: 1px; background: var(--muted); }
+  .dot.ok { background: var(--ok); } .dot.warn { background: var(--warn); } .dot.bad { background: var(--bad); }
+  main { max-width: 1240px; margin: 0 auto; padding: 8px 16px 48px; display: grid; grid-template-columns: 380px 1fr; gap: 28px; align-items: start; }
+  @media (max-width: 900px) { main { grid-template-columns: 1fr; } }
+  section > h2 { font: 600 20px "Playfair Display", serif; margin: 18px 0 10px; }
+  .phone { background: var(--panel); border: 1px solid var(--line); border-radius: 18px; padding: 12px; position: sticky; top: 12px; }
+  @media (max-width: 900px) { .phone { position: static; } }
+  .phone .bar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; gap: 8px; }
+  .phone .bar label { font-size: 13px; color: var(--muted); display: flex; gap: 6px; align-items: center; cursor: pointer; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; max-height: 76vh; overflow: auto; border-radius: 6px; }
+  .tile { position: relative; aspect-ratio: 3 / 4; background: var(--chip); overflow: hidden; }
+  .tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .tile.up img { opacity: .55; }
+  .tile .tag { position: absolute; left: 4px; bottom: 4px; background: rgba(14,46,40,.82); color: #fff; border-radius: 4px; padding: 1px 5px; font: 500 10px "IBM Plex Mono", monospace; }
+  .tile .reel { position: absolute; right: 5px; top: 5px; width: 14px; height: 14px; border-radius: 3px; border: 2px solid #fff; opacity: .9; }
+  .divider { grid-column: 1 / -1; font: 500 11px "IBM Plex Mono", monospace; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); padding: 8px 2px 4px; background: var(--panel); }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; justify-content: space-between; }
+  button, .btn { font: 500 13px Inter, sans-serif; border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 8px; padding: 6px 11px; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+  button:hover, .btn:hover { border-color: var(--gold); }
+  button.primary { background: var(--emerald); border-color: var(--emerald); color: #fff; }
+  button:disabled { opacity: .45; cursor: default; }
+  .day { background: var(--panel); border: 1px solid var(--line); border-radius: 14px; padding: 14px; margin-bottom: 12px; }
+  .day.held { opacity: .7; border-style: dashed; }
+  .day.next { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
+  .dayhead { display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+  .when { font: 500 12px "IBM Plex Mono", monospace; color: var(--muted); min-width: 132px; }
+  .dayhead h3 { font: 600 18px "Playfair Display", serif; margin: 0; flex: 1; min-width: 180px; }
+  .badge { font: 500 11px "IBM Plex Mono", monospace; letter-spacing: .06em; text-transform: uppercase; border-radius: 6px; padding: 2px 7px; background: var(--chip); }
+  .badge.ok { color: var(--ok); } .badge.warn { color: var(--warn); } .badge.bad { color: var(--bad); }
+  .posts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 12px; }
+  @media (max-width: 560px) { .posts { grid-template-columns: 1fr; } }
+  .post { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; display: flex; flex-direction: column; }
+  .post .thumb { aspect-ratio: 3 / 4; background: var(--chip); }
+  .post .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .post .meta { padding: 8px 10px 10px; font-size: 13px; display: flex; flex-direction: column; gap: 6px; }
+  .post .kind { font: 500 11px "IBM Plex Mono", monospace; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+  .links { display: flex; gap: 8px; flex-wrap: wrap; }
+  .links a { color: var(--emerald); font-weight: 500; }
+  :root[data-theme="dark"] .links a { color: var(--ok); }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .links a { color: var(--ok); } }
+  details { font-size: 13px; }
+  details summary { cursor: pointer; color: var(--muted); }
+  pre { white-space: pre-wrap; font: 13px/1.5 Inter, sans-serif; margin: 6px 0 0; background: var(--bg); border-radius: 8px; padding: 8px; }
+  .review { margin: 10px 0 0; padding: 8px 10px; border-radius: 8px; background: color-mix(in srgb, var(--gold) 14%, transparent); font-size: 13px; }
+  .review ul { margin: 4px 0 0; padding-left: 18px; }
+  .err { color: var(--bad); font-size: 13px; margin-top: 8px; }
+  .controls { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 10px; }
+  .note { color: var(--muted); font-size: 13px; }
+  .toast { position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 10px 16px; border-radius: 10px; font-size: 14px; display: none; max-width: calc(100% - 32px); }
+</style>
+</head>
+<body>
+<header>
+  <h1>MEDHAS <em>Social Planner</em></h1>
+  <p class="sub">One grid day a day, posted by itself to Instagram and Facebook: right carousel, reel, left carousel, each with its caption and first comment.</p>
+  <div class="chips" id="chips"></div>
+</header>
+<main>
+  <section>
+    <h2>Profile preview</h2>
+    <div class="phone">
+      <div class="bar">
+        <span class="mono">@medhas.ayurveda</span>
+        <label><input type="checkbox" id="showUp" checked> queued days</label>
+      </div>
+      <div class="grid" id="grid"></div>
+    </div>
+  </section>
+  <section>
+    <div class="toolbar">
+      <h2>Schedule</h2>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        <button id="pause"></button>
+        <a class="btn" id="editLink" target="_blank" rel="noopener">Edit captions on GitHub</a>
+        <button id="connect"></button>
+      </div>
+    </div>
+    <p class="note" id="explain"></p>
+    <div id="days"></div>
+  </section>
+</main>
+<div class="toast" id="toast"></div>
+<script>
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { v == null ? localStorage.removeItem(k) : localStorage.setItem(k, v); } catch {} } };
+let Q, ST, SHA;
+
+function zoned(tz, d = new Date()) {
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-CA', { timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).formatToParts(d).map((x) => [x.type, x.value]));
+  return { date: `${p.year}-${p.month}-${p.day}`, minutes: +p.hour * 60 + +p.minute };
+}
+const addDay = (iso, n = 1) => { const d = new Date(iso + 'T00:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
+const nice = (iso) => new Date(iso + 'T00:00:00Z').toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short', timeZone: 'UTC' });
+const time12 = (hm) => { const [h, m] = hm.split(':').map(Number); return `${((h + 11) % 12) + 1}:${String(m).padStart(2, '0')} ${h < 12 ? 'AM' : 'PM'}`; };
+
+function plan() {
+  const S = Q.settings, today = zoned(S.timezone);
+  const used = new Set(Object.values(ST.days).map((s) => s.date).filter(Boolean));
+  let cursor = S.start_date > today.date ? S.start_date : today.date;
+  const free = (d) => !used.has(d) && !(S.skip_dates || []).includes(d);
+  const out = [];
+  let nextMarked = false;
+  for (const d of Q.days) {
+    const s = ST.days[d.id];
+    const done = (pl) => d.posts.every((p) => s?.posts?.[p.slot]?.[pl]?.id);
+    const settled = s && S.platforms.every((pl) => done(pl) || s.gave_up?.[pl]);
+    let state, date = null;
+    if (s?.started) {
+      date = s.date;
+      state = settled ? (S.platforms.every(done) ? 'posted' : 'partial') : Object.keys(s.errors || {}).length ? 'retrying' : 'posting';
+    } else if (!d.approved) {
+      state = 'held';
+    } else {
+      while (!free(cursor)) cursor = addDay(cursor);
+      date = cursor; cursor = addDay(cursor);
+      state = nextMarked ? 'scheduled' : 'next';
+      nextMarked = true;
+    }
+    out.push({ d, s, state, date });
+  }
+  return out;
+}
+
+function chips(rows) {
+  const S = Q.settings, next = rows.find((r) => r.state === 'next');
+  const tok = ST.token;
+  const tokState = !tok ? ['', 'Token: checked on first run'] : !tok.valid ? ['bad', 'Token invalid: reconnect'] :
+    tok.data_access_expires ? (Date.parse(tok.data_access_expires) - Date.now() < 14 * 864e5 ? ['warn', `Token needs renewing by ${tok.data_access_expires.slice(0, 10)}`] : ['ok', `Token valid to ${tok.data_access_expires.slice(0, 10)}`]) : ['ok', 'Token valid, no expiry'];
+  const posted = rows.filter((r) => r.state === 'posted').length, held = rows.filter((r) => r.state === 'held').length;
+  $('#chips').innerHTML = [
+    `<span class="chip"><span class="dot ${S.paused ? 'warn' : 'ok'}"></span><b>${S.paused ? 'Paused' : 'Running'}</b></span>`,
+    next ? `<span class="chip">Next: <b>${esc(next.d.title)}</b> · ${nice(next.date)}, ${time12(S.post_time)} IST</span>` : `<span class="chip">Queue empty</span>`,
+    `<span class="chip">${posted} posted · ${rows.length - posted - held} to go · ${held} held</span>`,
+    `<span class="chip"><span class="dot ${tokState[0]}"></span>${tokState[1]}</span>`,
+    `<span class="chip" id="runChip"><span class="dot"></span>Bot: checking…</span>`,
+  ].join('');
+  fetch(`https://api.github.com/repos/${S.repo}/actions/workflows/autopost.yml/runs?per_page=1`).then((r) => r.json()).then((j) => {
+    const run = j.workflow_runs?.[0];
+    if (!run) return ($('#runChip').innerHTML = '<span class="dot warn"></span>Bot: no runs yet');
+    const c = run.status !== 'completed' ? ['warn', 'running now'] : run.conclusion === 'success' ? ['ok', 'last run fine'] : ['bad', `last run ${run.conclusion}`];
+    $('#runChip').innerHTML = `<span class="dot ${c[0]}"></span><a href="${run.html_url}" target="_blank" rel="noopener" style="color:inherit">Bot: ${c[1]}, ${new Date(run.updated_at).toLocaleString('en-IN', { dateStyle: 'medium', timeStyle: 'short' })}</a>`;
+  }).catch(() => ($('#runChip').innerHTML = '<span class="dot"></span>Bot: status unavailable'));
+}
+
+function grid(rows) {
+  const showUp = $('#showUp').checked;
+  const tile = (src, { up, reel, tag, href } = {}) => {
+    const inner = `<img loading="lazy" src="${esc(src)}" alt="">${reel ? '<span class="reel"></span>' : ''}${tag ? `<span class="tag">${esc(tag)}</span>` : ''}`;
+    return href ? `<a class="tile" href="${esc(href)}" target="_blank" rel="noopener">${inner}</a>` : `<div class="tile${up ? ' up' : ''}">${inner}</div>`;
+  };
+  const row = (r, up) => ['left', 'reel', 'right'].map((slot) => {
+    const p = r.d.posts.find((x) => x.slot === slot);
+    const ig = r.s?.posts?.[slot]?.instagram;
+    return tile(p.thumb, { up: up && !ig, reel: slot === 'reel', tag: slot === 'left' && r.date ? nice(r.date) : '', href: ig?.permalink });
+  }).join('');
+  const live = rows.filter((r) => r.s?.started).sort((a, b) => (b.s.started > a.s.started ? 1 : -1));
+  const queued = rows.filter((r) => !r.s?.started && r.date).reverse();
+  let html = '';
+  if (showUp && queued.length) html += `<div class="divider">Queued · newest on top</div>` + queued.map((r) => row(r, true)).join('');
+  if (live.length) html += `<div class="divider">Posted by the bot</div>` + live.map((r) => row(r, false)).join('');
+  if (Q.history?.length) html += `<div class="divider">Already live before the bot</div>` + Q.history.map((h) => tile(h.thumb, { reel: h.type === 'reel', href: h.permalink })).join('');
+  $('#grid').innerHTML = html;
+}
+
+function days(rows) {
+  const authed = !!store.get('gh_token');
+  const label = { posted: ['ok', 'Posted'], partial: ['warn', 'Partly posted'], retrying: ['bad', 'Retrying'], posting: ['warn', 'Posting'], held: ['', 'Held'], next: ['ok', 'Next up'], scheduled: ['', 'Scheduled'] };
+  $('#days').innerHTML = rows.map((r, i) => {
+    const { d, s, state } = r;
+    const [cls, text] = label[state];
+    const posts = ['left', 'reel', 'right'].map((slot) => d.posts.find((x) => x.slot === slot)).map((p) => {
+      const links = Q.settings.platforms.map((pl) => {
+        const x = s?.posts?.[p.slot]?.[pl];
+        return x?.permalink ? `<a href="${esc(x.permalink)}" target="_blank" rel="noopener">${pl === 'instagram' ? 'Instagram' : 'Facebook'}</a>${x.comment_error ? ' <span class="note">(comment failed)</span>' : ''}` : '';
+      }).filter(Boolean).join('');
+      return `<div class="post"><div class="thumb"><img loading="lazy" src="${esc(p.thumb)}" alt=""></div><div class="meta">
+        <span class="kind">${p.slot === 'reel' ? 'Middle · reel' : p.slot === 'left' ? 'Left · carousel' : 'Right · carousel'}</span>
+        <strong>${esc(p.title)}</strong>
+        ${links ? `<div class="links">${links}</div>` : ''}
+        <details><summary>Caption</summary><pre>${esc(p.caption)}</pre>${p.caption_fb ? `<p class="note">Facebook ends with: ${esc(p.caption_fb.split('\n\n').pop())}</p>` : ''}</details>
+        <details><summary>First comment</summary><pre>${esc(p.first_comment)}</pre></details>
+      </div></div>`;
+    }).join('');
+    const errs = Object.entries(s?.errors || {}).map(([pl, e]) => `<div class="err">${esc(pl)}: ${esc(e)} (attempt ${s.attempts?.[pl] || 1})</div>`).join('');
+    const canMove = !s?.started;
+    const ctrl = authed && canMove ? `<div class="controls">
+      <button data-act="approve" data-i="${i}">${d.approved ? 'Hold this day' : 'Approve'}</button>
+      <button data-act="up" data-i="${i}" ${i === 0 || rows[i - 1].s?.started ? 'disabled' : ''}>Move earlier</button>
+      <button data-act="down" data-i="${i}" ${i === rows.length - 1 ? 'disabled' : ''}>Move later</button></div>` : '';
+    const review = d.review?.length && !s?.started ? `<div class="review"><b>Fact check notes</b> (verse numbers to confirm; slides cite the chapter only)<ul>${d.review.map((x) => `<li>${esc(x)}</li>`).join('')}</ul></div>` : '';
+    return `<article class="day ${state === 'held' ? 'held' : ''} ${state === 'next' ? 'next' : ''}">
+      <div class="dayhead"><span class="when">${r.date ? `${nice(r.date)} · ${time12(Q.settings.post_time)}` : 'not scheduled'}</span><h3>${esc(d.title)}</h3><span class="badge ${cls}">${text}</span></div>
+      ${review}${errs}<div class="posts">${posts}</div>${ctrl}</article>`;
+  }).join('');
+}
+
+function render() {
+  const rows = plan();
+  chips(rows); grid(rows); days(rows);
+  const S = Q.settings, authed = !!store.get('gh_token');
+  $('#pause').textContent = S.paused ? 'Resume posting' : 'Pause posting';
+  $('#pause').disabled = !authed;
+  $('#pause').title = authed ? '' : 'Connect GitHub first';
+  $('#connect').textContent = authed ? 'Disconnect GitHub' : 'Connect GitHub to edit';
+  $('#editLink').href = `https://github.com/${S.repo}/edit/main/queue.json`;
+  $('#explain').textContent = `Posts at ${time12(S.post_time)} IST, one day at a time in this order. Held days are skipped, and a missed day never doubles up: the queue simply moves on a day.${authed ? '' : ' Connect GitHub to approve, hold, reorder or pause from here.'}`;
+}
+
+function toast(msg) { const t = $('#toast'); t.textContent = msg; t.style.display = 'block'; clearTimeout(toast.t); toast.t = setTimeout(() => (t.style.display = 'none'), 4500); }
+
+async function gh(path, init = {}) {
+  const res = await fetch(`https://api.github.com/repos/${Q.settings.repo}/${path}`, { ...init, headers: { Authorization: `Bearer ${store.get('gh_token')}`, Accept: 'application/vnd.github+json', ...(init.headers || {}) } });
+  if (!res.ok) throw new Error(`GitHub ${res.status}: ${(await res.json().catch(() => ({}))).message || ''}`);
+  return res.json();
+}
+const b64 = (s) => btoa(String.fromCharCode(...new TextEncoder().encode(s)));
+const unb64 = (s) => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\n/g, '')), (c) => c.charCodeAt(0)));
+
+async function saveQueue(mutate, message) {
+  try {
+    const file = await gh('contents/queue.json?ref=main');
+    const fresh = JSON.parse(unb64(file.content));
+    mutate(fresh);
+    await gh('contents/queue.json', { method: 'PUT', body: JSON.stringify({ message, content: b64(JSON.stringify(fresh, null, 2) + '\n'), sha: file.sha, branch: 'main' }) });
+    Q = fresh; render();
+    toast('Saved. The bot uses it from its next check.');
+  } catch (e) { toast(`Not saved: ${e.message}`); }
+}
+
+document.addEventListener('click', (e) => {
+  const b = e.target.closest('button[data-act]');
+  if (!b) return;
+  const d = Q.days[+b.dataset.i], id = d.id;
+  const move = (q, delta) => { const i = q.days.findIndex((x) => x.id === id); const [x] = q.days.splice(i, 1); q.days.splice(Math.max(0, i + delta), 0, x); };
+  if (b.dataset.act === 'approve') saveQueue((q) => { const x = q.days.find((y) => y.id === id); x.approved = !x.approved; }, `${d.approved ? 'Hold' : 'Approve'} ${id}`);
+  if (b.dataset.act === 'up') saveQueue((q) => move(q, -1), `Move ${id} earlier`);
+  if (b.dataset.act === 'down') saveQueue((q) => move(q, 1), `Move ${id} later`);
+});
+$('#pause').onclick = () => saveQueue((q) => { q.settings.paused = !q.settings.paused; }, Q.settings.paused ? 'Resume posting' : 'Pause posting');
+$('#connect').onclick = () => {
+  if (store.get('gh_token')) { store.set('gh_token', null); return render(); }
+  const t = prompt(`Paste a GitHub fine-grained token for ${Q.settings.repo} with "Contents: Read and write". It stays in this browser only.`);
+  if (t) { store.set('gh_token', t.trim()); render(); }
+};
+$('#showUp').onchange = () => grid(plan());
+
+Promise.all([fetch(`queue.json?t=${Date.now()}`).then((r) => r.json()), fetch(`status.json?t=${Date.now()}`).then((r) => r.json())])
+  .then(([q, s]) => { Q = q; ST = s; ST.days ||= {}; render(); })
+  .catch((e) => { $('#days').innerHTML = `<p class="err">Could not load the queue: ${esc(e.message)}</p>`; });
+</script>
+</body>
+</html>

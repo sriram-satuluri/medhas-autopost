@@ -1,0 +1,2243 @@
+{
+  "settings": {
+    "timezone": "Asia/Kolkata",
+    "post_time": "19:50",
+    "start_date": "2026-10-21",
+    "paused": false,
+    "skip_dates": [],
+    "platforms": [
+      "instagram",
+      "facebook"
+    ],
+    "instagram_user_id": "17841429870963357",
+    "facebook_page_id": "1297336003470270",
+    "repo": "sriram-satuluri/medhas-autopost",
+    "media_base_url": "https://sriram-satuluri.github.io/medhas-autopost/"
+  },
+  "history": [
+    {
+      "thumb": "media/history/01.jpg",
+      "permalink": "https://www.instagram.com/p/DdrXqMkFVCE/",
+      "at": "2026-09-24T16:59:17+0000",
+      "type": "carousel",
+      "title": "Where does Ayurveda begin? Not with a date anyone can pin down. 🌿"
+    },
+    {
+      "thumb": "media/history/02.jpg",
+      "permalink": "https://www.instagram.com/reel/DdrWRhJCqF-/",
+      "at": "2026-09-24T16:47:42+0000",
+      "type": "reel",
+      "title": "Where does Ayurveda actually begin? 🌿"
+    },
+    {
+      "thumb": "media/history/03.jpg",
+      "permalink": "https://www.instagram.com/p/DdrUDDlj3XE/",
+      "at": "2026-09-24T16:27:43+0000",
+      "type": "carousel",
+      "title": "What does Ayurveda say about itself? Three verses, in plain words. 🌿"
+    },
+    {
+      "thumb": "media/history/04.jpg",
+      "permalink": "https://www.instagram.com/p/Ddpj-M5FHGB/",
+      "at": "2026-09-24T00:08:27+0000",
+      "type": "carousel",
+      "title": "Where does Ayurveda come from? 7 slides, 3,000+ years. 🌿"
+    },
+    {
+      "thumb": "media/history/05.jpg",
+      "permalink": "https://www.instagram.com/p/DdpOHhzgVmu/",
+      "at": "2026-09-23T20:57:30+0000",
+      "type": "carousel",
+      "title": "Why is National Ayurveda Day on the 23rd? It hasn't always been. 🌿"
+    },
+    {
+      "thumb": "media/history/06.jpg",
+      "permalink": "https://www.instagram.com/reel/DdopTcsERVO/",
+      "at": "2026-09-23T15:36:07+0000",
+      "type": "reel",
+      "title": "Happy National Ayurveda Day. 🌿"
+    },
+    {
+      "thumb": "media/history/07.jpg",
+      "permalink": "https://www.instagram.com/p/Ddoo7_ujiQs/",
+      "at": "2026-09-23T15:32:32+0000",
+      "type": "carousel",
+      "title": "A source based timeline: how Ayurveda got from its first texts to today. 🌿"
+    },
+    {
+      "thumb": "media/history/08.jpg",
+      "permalink": "https://www.instagram.com/reel/DdmJQ1llSgB/",
+      "at": "2026-09-22T16:17:39+0000",
+      "type": "reel",
+      "title": "What is Ayurveda? One word, two Sanskrit roots, and an idea from more than 3,000"
+    },
+    {
+      "thumb": "media/history/09.jpg",
+      "permalink": "https://www.instagram.com/p/DdmIhkBgdq5/",
+      "at": "2026-09-22T16:11:48+0000",
+      "type": "carousel",
+      "title": "How does Ayurveda see health? It starts with one word: balance. 🌿"
+    }
+  ],
+  "days": [
+    {
+      "id": "teachers",
+      "key": "Day25",
+      "title": "The three great teachers",
+      "approved": true,
+      "review": [
+        "Vagbhata as the author of the Ashtanga Hridaya — Not on the Fact Sheet. The slides say \"tradition credits it to Vagbhata\", which follows FS10. Add a Fact Sheet entry with Meulenbeld before making any dating claim about him.",
+        "\"Still a standard teaching text in Ayurvedic colleges\" — Needs one source (a BAMS syllabus or CCIM/NCISM document). Remove the line if you cannot cite it today."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Three texts, three strengths",
+          "media": [
+            "media/teachers/R1.jpg",
+            "media/teachers/R2.jpg",
+            "media/teachers/R3.jpg",
+            "media/teachers/R4.jpg",
+            "media/teachers/R5.jpg",
+            "media/teachers/R6.jpg",
+            "media/teachers/R7.jpg"
+          ],
+          "thumb": "media/teachers/t_right.jpg",
+          "caption": "Three texts, three strengths: what each of Ayurveda's great books is actually for. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. The Sushruta Samhita in numbers: 186 chapters, about 1,120 illnesses, about 700 medicinal plants\n2. The procedures it describes, including rhinoplasty and lithotomy\n3. The Charaka Samhita's two aims, in its own words\n4. The Ashtanga Hridaya, the text that made the other two portable\n5. Three questions worth asking of any classical text\n\nEvery slide names its source, and where the dating is uncertain, the slide says so.\n\nPart 1 is on the other side of the reel.",
+          "first_comment": "#Ayurveda #CharakaSamhita #SushrutaSamhita #AshtangaHridaya #LearnAyurveda #AyurvedaIndia #IndianKnowledge #Svadhyaya",
+          "alt": [
+            "Cover: What each of the three classical texts holds. Three texts, three strengths: medicine, surgery, and the one that pulled it together. A wreath of leaves rings the tile.",
+            "The Sushruta Samhita in numbers: 186 chapters, about 1,120 illnesses described, about 700 medicinal plants, and 64 mineral and 57 animal based preparations.",
+            "Procedures the Sushruta Samhita describes: rhinoplasty, lithotomy and the removal of a dead fetus.",
+            "A quotation from the Charaka Samhita, Sutrasthana 30.26: to preserve the health of the healthy, and to cure the disease of the unhealthy.",
+            "The Ashtanga Hridaya condenses the other two texts into verse that a student can carry in memory. It remains a standard teaching text.",
+            "Three questions for reading a classical text: who is speaking, what is it for, and how old is the wording.",
+            "All three texts with every source: What Is Ayurveda, a complete guide, on the MEDHAS blog."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "The three great teachers",
+          "media": [
+            "media/teachers/reel.mp4"
+          ],
+          "thumb": "media/teachers/t_reel.jpg",
+          "caption": "Who actually wrote Ayurveda down? 🌿\n\nThree texts are known together as the Brihat Trayi, the great triad: the Charaka Samhita, the Sushruta Samhita and the Ashtanga Hridaya.\n\nOne is the text of internal medicine. One is the surgical text. The third gathers both into an ordered handbook that students could memorise, and it is still taught today.\n\nTheir dates? Scholars date the Charaka text between the 4th century BCE and the 2nd century CE, with a later revision about the 6th century CE, and they say plainly that the dates are uncertain.\n\nThe posts on either side of this reel open each text and say what is inside.\n\nFollow for one Ayurveda idea every evening at 8.",
+          "first_comment": "#Ayurveda #BrihatTrayi #CharakaSamhita #SushrutaSamhita #LearnAyurveda #AyurvedaIndia #IndianKnowledge #HolisticHealth",
+          "cover": "media/teachers/cover.jpg"
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Who wrote Ayurveda down?",
+          "media": [
+            "media/teachers/L1.jpg",
+            "media/teachers/L2.jpg",
+            "media/teachers/L3.jpg",
+            "media/teachers/L4.jpg",
+            "media/teachers/L5.jpg",
+            "media/teachers/L6.jpg",
+            "media/teachers/L7.jpg"
+          ],
+          "thumb": "media/teachers/t_left.jpg",
+          "caption": "Who wrote Ayurveda down? Three texts, and they do not say the same things. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The Brihat Trayi, the great triad\n2. Charaka: internal medicine, diet, conduct and the physician's own ethics\n3. Sushruta: the surgical text\n4. The Ashtanga Hridaya: the summary that made both portable\n5. How the three differ, and why that matters\n\nThen watch the reel beside this post, and read Part 3 for what each text holds.",
+          "first_comment": "#Ayurveda #AyurvedaHistory #CharakaSamhita #SushrutaSamhita #LearnAyurveda #AyurvedaIndia #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: Who wrote Ayurveda down? The three texts every Ayurvedic student still reads. A wreath of leaves rings the tile.",
+            "The Brihat Trayi, the great triad: the Charaka Samhita, the Sushruta Samhita and the Ashtanga Hridaya.",
+            "Charaka and the inner medicine. Dating uncertain: 4th century BCE to 2nd century CE, revised by Dridhabala about the 6th century CE.",
+            "Sushruta and the knife. Dating uncertain: last centuries BCE, settled by about the 3rd to 4th century CE.",
+            "The Ashtanga Hridaya gathers the other two into one ordered handbook, and tradition credits it to the physician Vagbhata.",
+            "One tradition, three voices: Charaka for internal medicine, Sushruta for surgery, the Ashtanga Hridaya as the ordered summary.",
+            "A fan of leaves above a gold node. Part 3 opens each text and says what is inside."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sushruta",
+      "key": "Day26",
+      "title": "Sushruta, the surgeon",
+      "approved": true,
+      "review": [
+        "Slide A5: training cuts on gourds, melons, wax and hide — Not on the Fact Sheet. The slide carries a note to check it against a published translation. Either cite the verse or drop that slide, which leaves a 6 slide carousel."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "What people claim, and what is written",
+          "media": [
+            "media/sushruta/R1.jpg",
+            "media/sushruta/R2.jpg",
+            "media/sushruta/R3.jpg",
+            "media/sushruta/R4.jpg",
+            "media/sushruta/R5.jpg",
+            "media/sushruta/R6.jpg",
+            "media/sushruta/R7.jpg"
+          ],
+          "thumb": "media/sushruta/t_right.jpg",
+          "caption": "Five things people say about Sushruta, checked against the sources. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Did the text describe nose surgery? Supported.\n2. Was he the world's first surgeon? Not supported by anything we can cite.\n3. Did one man write the whole book? No. It took shape over centuries.\n4. Where does the teaching come from? Tradition says Dhanvantari; earlier manuscripts say Divodasa.\n5. Do we have his original manuscript? No. The oldest copy is from 878 CE.\n\nRespect means checking, not inflating. The record is remarkable enough on its own.\n\nPart 1 is on the other side of the reel.",
+          "first_comment": "#Ayurveda #Sushruta #SushrutaSamhita #AyurvedaHistory #LearnAyurveda #AyurvedaIndia #IndianKnowledge #MythVsFact",
+          "alt": [
+            "Cover: Myth and record. What people claim about Sushruta, and what is written. Five claims checked against the sources, above a low horizon line with sprigs.",
+            "Claim one: Sushruta described rhinoplasty. Supported. Britannica confirms the text's surgical scope includes rhinoplasty.",
+            "Claim two: Sushruta was the first surgeon in history. Not supported. No citable source establishes a first.",
+            "Claim three: Sushruta wrote the whole book himself. Not supported. The text took shape over centuries and later hands revised it.",
+            "Claim four: the teaching came from Dhanvantari. Tradition. Later editions credit Dhanvantari; earlier manuscripts credit Divodasa, a king of Varanasi.",
+            "Claim five: we still have Sushruta's own manuscript. Not supported. The oldest surviving copy was completed on 13 April 878 CE, in Kathmandu.",
+            "Respect means checking, not inflating. The full guide with references is on the MEDHAS blog."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Sushruta, the surgeon",
+          "media": [
+            "media/sushruta/reel.mp4"
+          ],
+          "thumb": "media/sushruta/t_reel.jpg",
+          "caption": "A surgical textbook, written centuries ago. 🌿\n\nThe Sushruta Samhita has 186 chapters. It describes about 1,120 illnesses and about 700 medicinal plants, and its surgical scope includes the reconstruction of the nose and the removal of bladder stones.\n\nSushruta is often called the father of surgery. We write it that way, \"often called\", because no source we can cite establishes a first.\n\nThe record does not need the additions. It is remarkable as written.\n\nThe posts on either side of this reel have the text in detail, and five common claims checked against the sources.\n\nFollow for one Ayurveda idea every evening at 8.",
+          "first_comment": "#Ayurveda #Sushruta #SushrutaSamhita #AyurvedaHistory #LearnAyurveda #AyurvedaIndia #IndianKnowledge #HistoryOfMedicine",
+          "cover": "media/sushruta/cover.jpg",
+          "caption_fb": "A surgical textbook, written centuries ago. 🌿\n\nThe Sushruta Samhita has 186 chapters. It describes about 1,120 illnesses and about 700 medicinal plants, and its surgical scope includes the reconstruction of the nose and the removal of bladder stones.\n\nSushruta is often called the father of surgery. We write it that way, \"often called\", because no source we can cite establishes a first.\n\nThe record does not need the additions. It is remarkable as written.\n\nThe posts on either side of this reel have the text in detail, and five common claims checked against the sources.\n\nSwipe through the two carousels on our page for the text in detail, and five claims checked."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "What did Sushruta actually describe?",
+          "media": [
+            "media/sushruta/L1.jpg",
+            "media/sushruta/L2.jpg",
+            "media/sushruta/L3.jpg",
+            "media/sushruta/L4.jpg",
+            "media/sushruta/L5.jpg",
+            "media/sushruta/L6.jpg",
+            "media/sushruta/L7.jpg"
+          ],
+          "thumb": "media/sushruta/t_left.jpg",
+          "caption": "What did Sushruta actually describe? Start with the text, not the legend. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The text, not the man, and what can be dated\n2. 186 chapters, about 1,120 illnesses, about 700 medicinal plants\n3. The operations it describes: rhinoplasty, lithotomy, obstetric surgery\n4. How surgeons trained before touching a patient\n5. The oldest surviving copy, written on palm leaf in 878 CE\n\nThen watch the reel beside this post, and read Part 3, where five common claims are checked against the sources.",
+          "first_comment": "#Ayurveda #Sushruta #SushrutaSamhita #Surgery #AyurvedaHistory #LearnAyurveda #AyurvedaIndia #IndianKnowledge",
+          "alt": [
+            "Cover: What did Sushruta actually describe? A surgical text, read carefully and without the hype.",
+            "Start with the text. Sushruta is the physician traditionally credited with the Sushruta Samhita. Dating uncertain: last centuries BCE, settled by about the 3rd to 4th century CE.",
+            "What one text holds: 186 chapters, about 1,120 illnesses, about 700 medicinal plants, plus 64 mineral and 57 animal based preparations.",
+            "Operations it describes: rhinoplasty, lithotomy and obstetric surgery, each with steps, instruments and aftercare.",
+            "Practice before a patient: the text describes learning cuts on gourds, melons, wax and hide before working on a person.",
+            "The oldest copy we have: a palm leaf manuscript completed on 13 April 878 CE, at the Kaiser Library in Kathmandu.",
+            "A fan of leaves above a gold node. Part 3 checks five claims people repeat."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ashtanga",
+      "key": "Day27",
+      "title": "The eight branches (Ashtanga)",
+      "approved": true,
+      "review": [],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "A map of the whole field",
+          "media": [
+            "media/ashtanga/R1.jpg",
+            "media/ashtanga/R2.jpg",
+            "media/ashtanga/R3.jpg",
+            "media/ashtanga/R4.jpg",
+            "media/ashtanga/R5.jpg",
+            "media/ashtanga/R6.jpg",
+            "media/ashtanga/R7.jpg"
+          ],
+          "thumb": "media/ashtanga/t_right.jpg",
+          "caption": "Ayurveda is not one practice. It is eight. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why a field this wide needed divisions at all\n2. The two branches you already recognise: internal medicine and surgery\n3. The ones people miss: children, poisons, and the mind\n4. The two branches about the future: rejuvenation and fertility\n5. A note on where these names come from\n\nPart 1 names all eight, one by one, with a save card at the end.",
+          "first_comment": "#Ayurveda #Ashtanga #AyurvedaBranches #LearnAyurveda #AyurvedaIndia #IndianKnowledge #HolisticHealth #Svadhyaya",
+          "alt": [
+            "Cover: Why it still matters. A map of the whole field: what each branch became, and where it sits today. Minimal cream design with a single stem.",
+            "A field wide enough to need divisions: medicine, surgery, paediatrics, toxicology and the rest were treated as distinct disciplines.",
+            "Two you already recognise: Kayachikitsa, internal medicine, and Shalya tantra, surgery.",
+            "The ones people miss: Kaumarabhritya for children, Agada tantra for poisons, and Bhutavidya for the mind.",
+            "Two branches about the future: Rasayana, rejuvenation, and Vajikarana, fertility and reproductive health.",
+            "A note on sources: the eight branches are named in the classical texts, and the blog cites the verse and a published translation.",
+            "The whole field with every source: What Is Ayurveda, a complete guide, on the MEDHAS blog."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Eight limbs",
+          "media": [
+            "media/ashtanga/reel.mp4"
+          ],
+          "thumb": "media/ashtanga/t_reel.jpg",
+          "caption": "Ayurveda has eight branches. Most people can name one. 🌿\n\nAshtanga means eight limbs. Classical Ayurveda divides itself into eight areas of practice, each with its own training:\n\nKayachikitsa, internal medicine\nShalya tantra, surgery\nShalakya tantra, eye, ear, nose and throat\nKaumarabhritya, care of children\nAgada tantra, toxicology\nBhutavidya, the mind and its disorders\nRasayana, rejuvenation\nVajikarana, fertility and reproductive health\n\nOne tradition, eight disciplines. The posts on either side of this reel name each one and say where it sits today.\n\nFollow for one Ayurveda idea every evening at 8.",
+          "first_comment": "#Ayurveda #Ashtanga #EightBranches #Kayachikitsa #Rasayana #LearnAyurveda #AyurvedaIndia #IndianKnowledge",
+          "cover": "media/ashtanga/cover.jpg"
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Eight branches, named",
+          "media": [
+            "media/ashtanga/L1.jpg",
+            "media/ashtanga/L2.jpg",
+            "media/ashtanga/L3.jpg",
+            "media/ashtanga/L4.jpg",
+            "media/ashtanga/L5.jpg",
+            "media/ashtanga/L6.jpg",
+            "media/ashtanga/L7.jpg"
+          ],
+          "thumb": "media/ashtanga/t_left.jpg",
+          "caption": "Ayurveda has eight branches. Here they are, one by one. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What Ashtanga means: eight limbs\n2. Kayachikitsa and Shalya tantra\n3. Shalakya tantra and Kaumarabhritya\n4. Agada tantra and Bhutavidya\n5. Rasayana and Vajikarana\n6. All eight on one card, worth saving\n\nThen watch the reel beside this post, and read Part 3 for where each branch sits today.",
+          "first_comment": "#Ayurveda #Ashtanga #EightBranches #LearnAyurveda #AyurvedaIndia #IndianKnowledge #AyurvedaStudent #Svadhyaya",
+          "alt": [
+            "Cover: Ayurveda has eight branches. Ashtanga, the eight limbs, named one by one. Minimal cream design with a single stem.",
+            "Ashtanga means eight limbs. Classical Ayurveda divides itself into eight areas of practice, each with its own training.",
+            "Kayachikitsa, internal medicine, and Shalya tantra, surgery.",
+            "Shalakya tantra, eye, ear, nose and throat, and Kaumarabhritya, care of children.",
+            "Agada tantra, toxicology, and Bhutavidya, the mind and its disorders.",
+            "Rasayana, rejuvenation and long life, and Vajikarana, fertility and reproductive health.",
+            "All eight branches listed on one card, with their plain meanings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elements",
+      "key": "Day28",
+      "title": "The five elements",
+      "approved": true,
+      "review": [],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Why Ayurveda counts in fives",
+          "media": [
+            "media/elements/R1.jpg",
+            "media/elements/R2.jpg",
+            "media/elements/R3.jpg",
+            "media/elements/R4.jpg",
+            "media/elements/R5.jpg",
+            "media/elements/R6.jpg",
+            "media/elements/R7.jpg"
+          ],
+          "thumb": "media/elements/t_right.jpg",
+          "caption": "Why does Ayurveda count in fives? 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why these are not chemical elements\n2. Three families of quality: lightness and movement, heat and transformation, cohesion and weight\n3. How five elements become three doshas\n4. Why one vocabulary works for a body, a meal and a season\n5. What it is not: a personality quiz\n\nPart 1 names all five, one by one.",
+          "first_comment": "#Ayurveda #Panchamahabhuta #FiveElements #LearnAyurveda #AyurvedaIndia #IndianKnowledge #Doshas #Svadhyaya",
+          "alt": [
+            "Cover: What the elements explain. Why Ayurveda counts in fives, and how the elements become the three doshas. A woven lattice of leaves crosses the tile.",
+            "These are not chemical elements. Classical Ayurveda describes the world, and the body within it, as a combination of five elements which are qualities and tendencies.",
+            "Three families of quality: space and air suggest lightness and movement, fire suggests heat and transformation, water and earth suggest cohesion and weight.",
+            "Five become three: Vata is space and air for movement, Pitta is fire and water for transformation and digestion, Kapha is water and earth for structure and lubrication.",
+            "One language for body, food and season, because the elements describe qualities rather than substances.",
+            "Not a personality quiz. The elements and doshas are clinical vocabulary, and assessment belongs to a practitioner.",
+            "The whole framework with sources: What Is Ayurveda, a complete guide, on the MEDHAS blog."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Five elements",
+          "media": [
+            "media/elements/reel.mp4"
+          ],
+          "thumb": "media/elements/t_reel.jpg",
+          "caption": "Ayurveda describes you in five elements. 🌿\n\nAkasha, space. Vayu, air. Agni, fire. Jala, water. Prithvi, earth.\n\nThey are not chemical elements. They are qualities and tendencies: space and air suggest lightness and movement, fire suggests heat and transformation, water and earth suggest cohesion and weight.\n\nThose five combine into the three doshas, which is where tomorrow's posts pick up.\n\nPart 1 and Part 3 sit on either side of this reel.\n\nFollow for one Ayurveda idea every evening at 8.",
+          "first_comment": "#Ayurveda #Panchamahabhuta #FiveElements #LearnAyurveda #AyurvedaIndia #Vata #Pitta #Kapha",
+          "cover": "media/elements/cover.jpg",
+          "caption_fb": "Ayurveda describes you in five elements. 🌿\n\nAkasha, space. Vayu, air. Agni, fire. Jala, water. Prithvi, earth.\n\nThey are not chemical elements. They are qualities and tendencies: space and air suggest lightness and movement, fire suggests heat and transformation, water and earth suggest cohesion and weight.\n\nThose five combine into the three doshas, which is where tomorrow's posts pick up.\n\nPart 1 and Part 3 sit on either side of this reel.\n\nSwipe through the two carousels on our page for each element, and for what they explain."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "The five elements inside you",
+          "media": [
+            "media/elements/L1.jpg",
+            "media/elements/L2.jpg",
+            "media/elements/L3.jpg",
+            "media/elements/L4.jpg",
+            "media/elements/L5.jpg",
+            "media/elements/L6.jpg",
+            "media/elements/L7.jpg"
+          ],
+          "thumb": "media/elements/t_left.jpg",
+          "caption": "The five elements inside you, one at a time. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Akasha, space: room for everything else to happen\n2. Vayu, air: movement, in breath and in thought\n3. Agni, fire: heat and transformation, including digestion\n4. Jala, water: cohesion, what holds things together\n5. Prithvi, earth: weight and structure\n6. All five on one card, worth saving\n\nThen watch the reel beside this post, and read Part 3 for what the elements explain.",
+          "first_comment": "#Ayurveda #Panchamahabhuta #Akasha #Agni #LearnAyurveda #AyurvedaIndia #IndianKnowledge #AyurvedaStudent",
+          "alt": [
+            "Cover: The five elements inside you: Akasha, Vayu, Agni, Jala and Prithvi, in plain words.",
+            "Akasha, space: room for everything else to happen.",
+            "Vayu, air: movement, in breath and in thought.",
+            "Agni, fire: heat and transformation, including digestion.",
+            "Jala, water: cohesion, what holds things together.",
+            "Prithvi, earth: weight and structure.",
+            "All five elements on one card, with their plain meanings."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tridosha",
+      "key": "Day30",
+      "title": "Tridosha",
+      "approved": true,
+      "review": [],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "How a vaidya uses them",
+          "media": [
+            "media/tridosha/R1.jpg",
+            "media/tridosha/R2.jpg",
+            "media/tridosha/R3.jpg",
+            "media/tridosha/R4.jpg",
+            "media/tridosha/R5.jpg",
+            "media/tridosha/R6.jpg",
+            "media/tridosha/R7.jpg"
+          ],
+          "thumb": "media/tridosha/t_right.jpg",
+          "caption": "What a dosha reading actually looks like in a clinic. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why an online dosha quiz is entertainment, not an assessment\n2. What a consultation actually covers\n3. Prakriti and Vikriti: the balance you are born with, and your state now\n4. Why the same complaint gets different advice for different people\n5. Three questions worth asking your vaidya\n\nPart 1 takes each dosha one at a time.",
+          "first_comment": "#Ayurveda #Tridosha #Prakriti #Vikriti #LearnAyurveda #AyurvedaIndia #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: In the clinic. How a vaidya uses the doshas, and why it is a clinical tool rather than a personality quiz.",
+            "Not a personality quiz. A dosha assessment is part of a clinical examination, done by a person, in front of you.",
+            "What a consultation covers: the complaint and its history, diet, appetite, digestion, sleep, daily habits, Prakriti and Vikriti, season, place, age, and a physical examination including pulse and tongue.",
+            "Prakriti is the balance you are born with. Vikriti is your state now, which moves with season, food, sleep and stress.",
+            "Same complaint, different person: constitutions, seasons and digestion differ, so the advice differs.",
+            "Three questions to ask your vaidya: what is my Prakriti and how did you assess it, what is out of balance now, and what would you change first.",
+            "The doshas with sources: our guide to the tridosha, on the MEDHAS blog."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Three doshas",
+          "media": [
+            "media/tridosha/reel.mp4"
+          ],
+          "thumb": "media/tridosha/t_reel.jpg",
+          "caption": "Everyone has all three. 🌿\n\nThe five elements combine into three functional principles, the doshas:\n\nVata, space and air, linked with movement.\nPitta, fire and water, linked with transformation and digestion.\nKapha, water and earth, linked with structure and lubrication.\n\nHealth is described as a state in which the doshas are balanced, and illness as their imbalance. There is no good dosha and no bad dosha. There is only proportion.\n\nWhich means you are not \"a Vata\". You carry all three, in your own proportion, and a practitioner reads that alongside your history, season and examination.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Tridosha #Vata #Pitta #Kapha #LearnAyurveda #AyurvedaIndia #IndianKnowledge",
+          "cover": "media/tridosha/cover.jpg",
+          "caption_fb": "Everyone has all three. 🌿\n\nThe five elements combine into three functional principles, the doshas:\n\nVata, space and air, linked with movement.\nPitta, fire and water, linked with transformation and digestion.\nKapha, water and earth, linked with structure and lubrication.\n\nHealth is described as a state in which the doshas are balanced, and illness as their imbalance. There is no good dosha and no bad dosha. There is only proportion.\n\nWhich means you are not \"a Vata\". You carry all three, in your own proportion, and a practitioner reads that alongside your history, season and examination.\n\nSwipe through the two carousels on our page for each dosha, and for how a vaidya uses them."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Vata, Pitta, Kapha",
+          "media": [
+            "media/tridosha/L1.jpg",
+            "media/tridosha/L2.jpg",
+            "media/tridosha/L3.jpg",
+            "media/tridosha/L4.jpg",
+            "media/tridosha/L5.jpg",
+            "media/tridosha/L6.jpg",
+            "media/tridosha/L7.jpg"
+          ],
+          "thumb": "media/tridosha/t_left.jpg",
+          "caption": "Vata, Pitta and Kapha, in plain language. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. How five elements become three doshas\n2. Vata: space and air, movement\n3. Pitta: fire and water, transformation and digestion\n4. Kapha: water and earth, structure and lubrication\n5. Balance and its absence, and why there is no good or bad dosha\n6. All three on one card, worth saving\n\nThen watch the reel beside this post, and read Part 3 for how a vaidya actually uses this.",
+          "first_comment": "#Ayurveda #Tridosha #Vata #Pitta #Kapha #Doshas #LearnAyurveda #AyurvedaStudent",
+          "alt": [
+            "Cover: Vata, Pitta, Kapha: the three doshas, in plain language.",
+            "Five elements become three: each dosha is a pairing of elements, and each pairing does a job.",
+            "Vata: space and air, traditionally linked with movement, what carries, circulates and changes.",
+            "Pitta: fire and water, linked with transformation and digestion, what converts one thing into another.",
+            "Kapha: water and earth, linked with structure and lubrication, what holds, cushions and steadies.",
+            "Balance and its absence: health is described as balanced doshas, illness as their imbalance. Everyone has all three.",
+            "All three doshas on one card, with their elements and functions."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vata",
+      "key": "Day01",
+      "title": "Vata",
+      "approved": true,
+      "review": [
+        "Slide A4: the six qualities (dry, light, cold, rough, subtle, mobile) — Pending. The slide carries the reference Charaka Samhita, Sutrasthana 1.59, and a note to confirm the translation. Confirm against a published translation or drop the slide.",
+        "Slide B2: like increases like, opposites balance — Pending a verse citation. The principle is standard, but add the reference at fact check.",
+        "Slide B4: autumn as a Vata season — Pending. Ritucharya is covered in a later blog. Cite the verse or soften the slide."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "What settles movement",
+          "media": [
+            "media/vata/R1.jpg",
+            "media/vata/R2.jpg",
+            "media/vata/R3.jpg",
+            "media/vata/R4.jpg",
+            "media/vata/R5.jpg",
+            "media/vata/R6.jpg",
+            "media/vata/R7.jpg"
+          ],
+          "thumb": "media/vata/t_right.jpg",
+          "caption": "The oldest rule in Ayurveda: like increases like, opposites balance. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. The principle itself, in one line\n2. What it means for Vata: warm, steady and grounded meet light, cold and erratic\n3. Warmth, rhythm and rest, in practice\n4. Why autumn gets read as a Vata season\n5. Rasayana, the branch about the long view\n\nPart 1 explains what Vata actually names.",
+          "first_comment": "#Ayurveda #Vata #Doshas #Rasayana #LearnAyurveda #AyurvedaIndia #IndianKnowledge #HealthyAgeing",
+          "alt": [
+            "Cover: Steadying it. What settles movement, using the classical principle that opposite qualities balance.",
+            "Like increases like, opposites balance. For Vata, light, cold and erratic are met with warm, steady and grounded.",
+            "In practice: warm cooked food, a regular day, and oil and touch, since massage is named among the classical treatments.",
+            "The season: the dry, cool, mobile part of the year is read as a Vata season.",
+            "Rasayana, rejuvenation, covers tonics and practices aimed at long term vitality.",
+            "What a post cannot do: it cannot know your constitution, season, medicines or history.",
+            "Vata, Pitta and Kapha with sources, on the MEDHAS blog. Tomorrow: Pitta."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Vata in motion",
+          "media": [
+            "media/vata/reel.mp4"
+          ],
+          "thumb": "media/vata/t_reel.jpg",
+          "caption": "Vata is not a personality type. 🌿\n\nIt is one of the three doshas: the pairing of space and air, traditionally linked with movement. In the body that reading covers breath, circulation, the passage of food, and the movement of thought.\n\nThe classical rule for working with it is simple: like increases like, opposites balance. So what is light, cold and erratic is met with what is warm, steady and grounded.\n\nYou carry all three doshas, in your own proportion. Being told you \"are a Vata\" is a shorthand, and a poor one.\n\nThis is general education, not a prescription. Assessment belongs to a practitioner who can examine you.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Vata #Tridosha #LearnAyurveda #AyurvedaIndia #Dinacharya #IndianKnowledge #HolisticHealth",
+          "cover": "media/vata/cover.jpg",
+          "caption_fb": "Vata is not a personality type. 🌿\n\nIt is one of the three doshas: the pairing of space and air, traditionally linked with movement. In the body that reading covers breath, circulation, the passage of food, and the movement of thought.\n\nThe classical rule for working with it is simple: like increases like, opposites balance. So what is light, cold and erratic is met with what is warm, steady and grounded.\n\nYou carry all three doshas, in your own proportion. Being told you \"are a Vata\" is a shorthand, and a poor one.\n\nThis is general education, not a prescription. Assessment belongs to a practitioner who can examine you.\n\nSwipe through the two carousels on our page for what Vata names, and what settles it."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Vata, the principle of movement",
+          "media": [
+            "media/vata/L1.jpg",
+            "media/vata/L2.jpg",
+            "media/vata/L3.jpg",
+            "media/vata/L4.jpg",
+            "media/vata/L5.jpg",
+            "media/vata/L6.jpg",
+            "media/vata/L7.jpg"
+          ],
+          "thumb": "media/vata/t_left.jpg",
+          "caption": "Vata, the principle of movement. What it names, and what it does not. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What it is made of: space and air\n2. What it names: everything that carries, circulates or changes\n3. How the classical texts describe it\n4. What balance and imbalance mean, and why we are not listing symptoms\n5. Why you are not \"one dosha\"\n\nThen watch the reel beside this post, and read Part 3 for what settles movement.",
+          "first_comment": "#Ayurveda #Vata #Doshas #Prakriti #LearnAyurveda #AyurvedaIndia #AyurvedaStudent #IndianKnowledge",
+          "alt": [
+            "Cover: Vata, the principle of movement: what it names, and what it does not.",
+            "Space and air. Of the five elements, Vata is the pairing that suggests lightness and movement.",
+            "Everything that moves: breath, circulation, the passage of food, and the movement of thought.",
+            "How the texts describe it: dry, light, cold, rough, subtle and mobile.",
+            "Balanced and disturbed: health is described as balanced doshas, illness as their imbalance. What disturbance looks like in a person is a clinical judgement.",
+            "You are not one dosha. Everyone carries all three, and constitution is a proportion, not a label.",
+            "Part 3: what steadies movement."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pitta",
+      "key": "Day02",
+      "title": "Pitta",
+      "approved": true,
+      "review": [
+        "Slide A5: the six qualities (hot, sharp, light, liquid, spreading, oily) — Pending. The slide carries the reference Charaka Samhita, Sutrasthana 1.60, and a note to confirm the translation. Confirm or drop the slide.",
+        "Slide B2: like increases like, opposites balance — Pending a verse citation, same as yesterday.",
+        "Slide B4: summer as a Pitta season — Pending, from the Ritucharya guide."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "What settles heat",
+          "media": [
+            "media/pitta/R1.jpg",
+            "media/pitta/R2.jpg",
+            "media/pitta/R3.jpg",
+            "media/pitta/R4.jpg",
+            "media/pitta/R5.jpg",
+            "media/pitta/R6.jpg",
+            "media/pitta/R7.jpg"
+          ],
+          "thumb": "media/pitta/t_right.jpg",
+          "caption": "Same rule as yesterday, pointed the other way. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Opposites, again: hot, sharp and spreading are met with cool, steady and calm\n2. In practice: regular meals, cooling foods, rest from heat\n3. Why the hot, sharp part of the year is read as a Pitta season\n4. The mind too, since the classical definition of health includes a pleasant mind and senses\n5. What a post cannot do\n\nPart 1 explains what Pitta actually names.",
+          "first_comment": "#Ayurveda #Pitta #Doshas #Agni #LearnAyurveda #AyurvedaIndia #IndianKnowledge #Ritucharya",
+          "alt": [
+            "Cover: Cooling it. What settles heat, using the same principle that opposite qualities balance.",
+            "Opposites again: hot, sharp and spreading are met with cool, steady and calm.",
+            "In practice: regular meals that are neither skipped nor rushed, cooling foods over sharp and fermented, and rest from heat.",
+            "The season: the hot, sharp part of the year is read as a Pitta season.",
+            "The mind too: the classical definition of health includes a pleasant mind and senses, so irritability is part of the picture.",
+            "Education, not a plan. Your constitution, season, medicines and history decide the advice.",
+            "Vata, Pitta and Kapha with sources, on the MEDHAS blog. Next: Kapha."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Pitta at work",
+          "media": [
+            "media/pitta/reel.mp4"
+          ],
+          "thumb": "media/pitta/t_reel.jpg",
+          "caption": "Pitta is not a temper. 🌿\n\nIt is the pairing of fire and water, traditionally linked with transformation and digestion: turning food into the body, and impressions into understanding.\n\nDigestion is not a side note in Ayurveda. The classical definition of a healthy person names it directly: doshas in equilibrium, digestion balanced, tissues in equilibrium, wastes eliminated properly, and the mind, senses and soul pleasant.\n\nWhich is why a consultation about temper asks about your meals and your sleep.\n\nThe working rule stays the same: opposites balance. Cool, steady, unhurried.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Pitta #Agni #Tridosha #LearnAyurveda #AyurvedaIndia #Digestion #IndianKnowledge",
+          "cover": "media/pitta/cover.jpg",
+          "caption_fb": "Pitta is not a temper. 🌿\n\nIt is the pairing of fire and water, traditionally linked with transformation and digestion: turning food into the body, and impressions into understanding.\n\nDigestion is not a side note in Ayurveda. The classical definition of a healthy person names it directly: doshas in equilibrium, digestion balanced, tissues in equilibrium, wastes eliminated properly, and the mind, senses and soul pleasant.\n\nWhich is why a consultation about temper asks about your meals and your sleep.\n\nThe working rule stays the same: opposites balance. Cool, steady, unhurried.\n\nSwipe through the two carousels on our page for what Pitta names, and what settles it."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Pitta, the principle of transformation",
+          "media": [
+            "media/pitta/L1.jpg",
+            "media/pitta/L2.jpg",
+            "media/pitta/L3.jpg",
+            "media/pitta/L4.jpg",
+            "media/pitta/L5.jpg",
+            "media/pitta/L6.jpg",
+            "media/pitta/L7.jpg"
+          ],
+          "thumb": "media/pitta/t_left.jpg",
+          "caption": "Pitta, the principle of transformation. Fire and water, and what they turn into what. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What it is made of: fire and water, an odd pairing until you think of controlled heat\n2. What it names: everything that converts\n3. Agni, and why digestion sits inside the definition of health\n4. How the classical texts describe it\n5. Why heat is not a diagnosis\n\nThen watch the reel beside this post, and read Part 3 for what settles heat.",
+          "first_comment": "#Ayurveda #Pitta #Agni #Doshas #LearnAyurveda #AyurvedaIndia #AyurvedaStudent #HolisticHealth",
+          "alt": [
+            "Cover: Pitta, the principle of transformation: fire and water, and what they turn into what.",
+            "Fire and water: controlled heat, fire doing its work inside a fluid without burning what holds it.",
+            "Everything that converts: turning food into the body, and impressions into understanding.",
+            "Agni, the digestive fire. The classical definition of a healthy person names digestion directly.",
+            "How the texts describe it: hot, sharp, light, liquid, spreading and oily.",
+            "Heat is not a diagnosis. Feeling warm or irritable does not make you a Pitta.",
+            "Part 3: what settles heat."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kapha",
+      "key": "Day03",
+      "title": "Kapha",
+      "approved": true,
+      "review": [
+        "Slide A4: the six qualities (heavy, slow, cool, oily, smooth, stable) — Pending. Reference on the slide is Charaka Samhita, Sutrasthana 1.61, with a note to confirm the translation.",
+        "Slide B6: like increases like, opposites balance — Pending a verse citation, same as 1 and 2 October."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "What Kapha is not",
+          "media": [
+            "media/kapha/R1.jpg",
+            "media/kapha/R2.jpg",
+            "media/kapha/R3.jpg",
+            "media/kapha/R4.jpg",
+            "media/kapha/R5.jpg",
+            "media/kapha/R6.jpg",
+            "media/kapha/R7.jpg"
+          ],
+          "thumb": "media/kapha/t_right.jpg",
+          "caption": "Four things people get wrong about Kapha. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Kapha does not mean overweight. It names structure and lubrication.\n2. No dosha is the bad one. Health is balance among all three.\n3. A quiz is not an assessment.\n4. Slow is not the same as stagnant.\n5. The working rule: heavy, slow and cool are met with light, warming and moving.\n\nPart 1 explains what Kapha actually names.",
+          "first_comment": "#Ayurveda #Kapha #Tridosha #MythVsFact #LearnAyurveda #AyurvedaIndia #Doshas #IndianKnowledge",
+          "alt": [
+            "Cover: Myth and fact. What Kapha is not: four things people get wrong about the third dosha.",
+            "Myth: Kapha is the fat dosha. What the texts say: Kapha names structure and lubrication, a function rather than a body size, and everyone has it.",
+            "Myth: you want less Kapha. What the texts say: health is balance among all three, and without Kapha there is no structure to balance.",
+            "Myth: I did a test online, so I know I am Kapha. What the texts say: constitution is assessed by a practitioner alongside history, digestion, sleep, season and examination.",
+            "Myth: Kapha means lazy. What the texts say: the classical qualities include slow and stable, and steadiness is the point of them.",
+            "The working rule: heavy, slow and cool are met with light, warming and moving.",
+            "All three doshas with sources, on the MEDHAS blog. Tomorrow: Prakriti."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Kapha holds",
+          "media": [
+            "media/kapha/reel.mp4"
+          ],
+          "thumb": "media/kapha/t_reel.jpg",
+          "caption": "Kapha is not the fat dosha. 🌿\n\nIt is the pairing of water and earth, traditionally linked with structure and lubrication: tissue, cushioning, moisture and the solidity of a body.\n\nMyth: \"you want less Kapha.\"\nWhat the texts say: health is balance among all three. Without Kapha there is nothing holding the structure together.\n\nMovement, change, structure. Vata, Pitta, Kapha. You carry all three, in your own proportion, and a practitioner reads that in person.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Kapha #Tridosha #Doshas #LearnAyurveda #AyurvedaIndia #MythVsFact #HolisticHealth",
+          "cover": "media/kapha/cover.jpg",
+          "caption_fb": "Kapha is not the fat dosha. 🌿\n\nIt is the pairing of water and earth, traditionally linked with structure and lubrication: tissue, cushioning, moisture and the solidity of a body.\n\nMyth: \"you want less Kapha.\"\nWhat the texts say: health is balance among all three. Without Kapha there is nothing holding the structure together.\n\nMovement, change, structure. Vata, Pitta, Kapha. You carry all three, in your own proportion, and a practitioner reads that in person.\n\nSwipe through the two carousels on our page for what Kapha names, and the myths worth dropping."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Kapha, the principle of structure",
+          "media": [
+            "media/kapha/L1.jpg",
+            "media/kapha/L2.jpg",
+            "media/kapha/L3.jpg",
+            "media/kapha/L4.jpg",
+            "media/kapha/L5.jpg",
+            "media/kapha/L6.jpg",
+            "media/kapha/L7.jpg"
+          ],
+          "thumb": "media/kapha/t_left.jpg",
+          "caption": "Kapha, the principle of structure. What holds, cushions and steadies. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What it is made of: water and earth\n2. What it names: everything that holds\n3. How the classical texts describe it\n4. Steady, and too still: what balance and imbalance mean here\n5. The three together: movement, change and structure\n\nThen watch the reel beside this post, and read Part 3 for four myths worth dropping.",
+          "first_comment": "#Ayurveda #Kapha #Doshas #Tridosha #LearnAyurveda #AyurvedaIndia #AyurvedaStudent #IndianKnowledge",
+          "alt": [
+            "Cover: Kapha, the principle of structure: water and earth, what holds, cushions and steadies.",
+            "Water and earth: the two elements that suggest cohesion and weight.",
+            "Everything that holds: tissue, cushioning for a joint, moisture on a surface, and the solidity of a body.",
+            "How the texts describe it: heavy, slow, cool, oily, smooth and stable.",
+            "Steady, and too still: health is described as balanced doshas, illness as their imbalance.",
+            "The three together: Vata for movement, Pitta for transformation, Kapha for structure.",
+            "Part 3: four things people get wrong."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prakriti",
+      "key": "Day04",
+      "title": "Prakriti",
+      "approved": true,
+      "review": [],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Not a personality quiz",
+          "media": [
+            "media/prakriti/R1.jpg",
+            "media/prakriti/R2.jpg",
+            "media/prakriti/R3.jpg",
+            "media/prakriti/R4.jpg",
+            "media/prakriti/R5.jpg",
+            "media/prakriti/R6.jpg",
+            "media/prakriti/R7.jpg"
+          ],
+          "thumb": "media/prakriti/t_right.jpg",
+          "caption": "Prakriti is a clinical concept, not a personality quiz. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why ten questions cannot examine you\n2. What a vaidya actually records, and why the case sheet matters\n3. Why constitution is the first data point in a consultation\n4. What it never decides: not destiny, not character\n5. The one question worth asking your practitioner\n\nPart 1 explains what Prakriti is, and how it is read.",
+          "first_comment": "#Ayurveda #Prakriti #Vikriti #Doshas #LearnAyurveda #AyurvedaIndia #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: A clinical concept. Not a personality quiz: what Prakriti is used for, and what it never decides. Minimal cream design with a thin gold ring.",
+            "Ten questions cannot examine you. A quiz asks what you already believe; a consultation asks what your body is doing, and then looks.",
+            "A case sheet, not a label: complaint, history, digestion, sleep, habits, constitution, current state, season, place and age.",
+            "Constitution is the first data point. It sets the baseline against which change is read.",
+            "What it never decides: not destiny, not character. Your constitution does not decide your discipline, intelligence or worth.",
+            "One question worth asking: what is my Prakriti, and how did you assess it?",
+            "Constitution with sources: What Is Prakriti, constitution versus current imbalance, on the MEDHAS blog."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Prakriti explained",
+          "media": [
+            "media/prakriti/reel.mp4"
+          ],
+          "thumb": "media/prakriti/t_reel.jpg",
+          "caption": "Your Prakriti is not a quiz result. 🌿\n\nPrakriti is the balance of doshas you are born with, and in classical thinking it does not change over a lifetime.\n\nVikriti is today: your current state, which moves with season, food, sleep and stress.\n\nTreatment aims at the distance between the two. That is the whole clinical use of the idea, and it is why a practitioner assesses it in person, alongside your history, digestion, sleep and a physical examination.\n\nTen questions on a website cannot do that.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Prakriti #Vikriti #Constitution #LearnAyurveda #AyurvedaIndia #Doshas #HolisticHealth",
+          "cover": "media/prakriti/cover.jpg"
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "What is your Prakriti?",
+          "media": [
+            "media/prakriti/L1.jpg",
+            "media/prakriti/L2.jpg",
+            "media/prakriti/L3.jpg",
+            "media/prakriti/L4.jpg",
+            "media/prakriti/L5.jpg",
+            "media/prakriti/L6.jpg",
+            "media/prakriti/L7.jpg"
+          ],
+          "thumb": "media/prakriti/t_left.jpg",
+          "caption": "What is your Prakriti? Not something a website can tell you. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The balance you are born with\n2. Prakriti and Vikriti, side by side\n3. How it is assessed, and everything a consultation covers first\n4. What it is for: it changes the advice, not the label\n5. What it is not: a personality type\n\nThen watch the reel beside this post, and read Part 3 on why it is a clinical concept.",
+          "first_comment": "#Ayurveda #Prakriti #Doshas #Vata #Pitta #Kapha #LearnAyurveda #AyurvedaIndia",
+          "alt": [
+            "Cover: What is your Prakriti? The balance you are born with, and how it is read.",
+            "Prakriti is the proportion of the three doshas a person carries from the start, and in classical thinking it does not change.",
+            "Prakriti is the balance you are born with. Vikriti is your state now, which moves with season, food, sleep and stress.",
+            "Assessed, not answered: a consultation covers complaint, history, digestion, sleep, habits, constitution, current state, season, place, age and a physical examination.",
+            "It changes the advice: two people with the same complaint can receive different guidance.",
+            "Not a personality type. Prakriti describes physiological tendencies, not character.",
+            "You carry all three doshas. Prakriti is the proportion, Vikriti is today."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prakriti-vikriti",
+      "key": "Day05",
+      "title": "Prakriti vs Vikriti",
+      "approved": true,
+      "review": [],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "How you feel today",
+          "media": [
+            "media/prakriti-vikriti/R1.jpg",
+            "media/prakriti-vikriti/R2.jpg",
+            "media/prakriti-vikriti/R3.jpg",
+            "media/prakriti-vikriti/R4.jpg",
+            "media/prakriti-vikriti/R5.jpg",
+            "media/prakriti-vikriti/R6.jpg",
+            "media/prakriti-vikriti/R7.jpg"
+          ],
+          "thumb": "media/prakriti-vikriti/t_right.jpg",
+          "caption": "Your Ayurvedic \"type\" is not the same as how you are doing this week. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Vikriti: the reading taken today\n2. Why treatment reads the distance between the two\n3. The eight things a vaidya actually examines\n4. Why a quiz cannot take a pulse\n5. The one question worth asking your practitioner\n\nPart 1 explains the baseline that this is measured against.",
+          "first_comment": "#Ayurveda #Vikriti #Prakriti #Doshas #LearnAyurveda #AyurvedaIndia #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: Who you are, and how you feel today. Two different questions, and Ayurveda keeps them apart.",
+            "Vikriti is the reading taken today. It moves with the season, with food, with sleep and with what the week has asked of you.",
+            "Treatment reads the distance. The same state can be ordinary for one person and a clear change for another.",
+            "Eight things, looked at in person: pulse, tongue, voice, skin, eyes, stool, urine and general appearance.",
+            "A quiz cannot take a pulse. Ten questions record what you already believe about yourself.",
+            "One question worth asking: what is my Prakriti, and how did you assess it?",
+            "Constitution with sources, on the MEDHAS blog. Tomorrow: Agni, the digestive fire."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Prakriti and Vikriti",
+          "media": [
+            "media/prakriti-vikriti/reel.mp4"
+          ],
+          "thumb": "media/prakriti-vikriti/t_reel.jpg",
+          "caption": "Two words that get used as if they were one. 🌿\n\nPrakriti is the constitution set at conception: the proportion of the three doshas you carry. Classical thinking treats it as fixed, and the Charaka Samhita describes seven types, not three.\n\nVikriti is today. Your current state, which moves with season, food, sleep and stress.\n\nTreatment reads the distance between them. That is the entire clinical use of the pair, and it is why a practitioner assesses it in person, alongside your history, digestion, sleep and a physical examination.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Prakriti #Vikriti #Constitution #Doshas #LearnAyurveda #AyurvedaIndia #HolisticHealth",
+          "cover": "media/prakriti-vikriti/cover.jpg",
+          "caption_fb": "Two words that get used as if they were one. 🌿\n\nPrakriti is the constitution set at conception: the proportion of the three doshas you carry. Classical thinking treats it as fixed, and the Charaka Samhita describes seven types, not three.\n\nVikriti is today. Your current state, which moves with season, food, sleep and stress.\n\nTreatment reads the distance between them. That is the entire clinical use of the pair, and it is why a practitioner assesses it in person, alongside your history, digestion, sleep and a physical examination.\n\nBoth carousels on our page walk through each half."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Who you are",
+          "media": [
+            "media/prakriti-vikriti/L1.jpg",
+            "media/prakriti-vikriti/L2.jpg",
+            "media/prakriti-vikriti/L3.jpg",
+            "media/prakriti-vikriti/L4.jpg",
+            "media/prakriti-vikriti/L5.jpg",
+            "media/prakriti-vikriti/L6.jpg",
+            "media/prakriti-vikriti/L7.jpg"
+          ],
+          "thumb": "media/prakriti-vikriti/t_left.jpg",
+          "caption": "Prakriti is set at conception, and the texts describe seven types, not three. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The proportion you start with\n2. Seven types, not three\n3. Why a baseline is only useful written down\n4. What it is not: a personality type\n5. The 2015 study that looked for a genetic basis\n\nThen watch the reel beside this post, and read Part 3 on the half that actually moves.",
+          "first_comment": "#Ayurveda #Prakriti #Doshas #Vata #Pitta #Kapha #LearnAyurveda #AyurvedaIndia",
+          "alt": [
+            "Cover: Two questions, kept apart: Prakriti is who you are, Vikriti is how you feel today.",
+            "The proportion you start with: Prakriti is set at conception and classical thinking treats it as fixed.",
+            "Seven types, not three: three single dosha types, three dual types, and one in which all three are in equilibrium.",
+            "A baseline is only useful written down: constitution sits in the consultation with complaint, history, digestion, sleep, habits, season, place and age.",
+            "Not a personality type. Prakriti describes physiological tendencies, not character.",
+            "One early study: a 2015 genome wide study of 262 healthy men reported 52 variants differing between Vata, Pitta and Kapha types.",
+            "Part 3: how you feel today."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agni",
+      "key": "Day06",
+      "title": "Agni, the digestive fire",
+      "approved": true,
+      "review": [
+        "Slide B4: like increases like, opposites balance — Pending a verse citation, the same one outstanding since 1 October"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Why meals come first",
+          "media": [
+            "media/agni/R1.jpg",
+            "media/agni/R2.jpg",
+            "media/agni/R3.jpg",
+            "media/agni/R4.jpg",
+            "media/agni/R5.jpg",
+            "media/agni/R6.jpg",
+            "media/agni/R7.jpg"
+          ],
+          "thumb": "media/agni/t_right.jpg",
+          "caption": "The most Ayurvedic thing you can do this week is eat at the same time twice. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Start with routine: the gentlest steps in the whole system\n2. Ahara: the six tastes, meal timing, and why the same meal is not the same advice\n3. Opposites balance: the one rule underneath all of it\n4. Shamana and Shodhana: the two ways the tradition responds\n5. The safety line: tell every doctor what you take\n\nPart 1 explains the word behind all of this.",
+          "first_comment": "#Ayurveda #Agni #Digestion #Dinacharya #LearnAyurveda #AyurvedaIndia #Ahara #IndianKnowledge",
+          "alt": [
+            "Cover: Why meals come first. Regular, unhurried, and suited to the season.",
+            "Start with routine: regular sleep, regular meals and eating with the season are the gentlest steps, and they appear throughout the classical texts.",
+            "Ahara, diet as medicine: the six tastes, meal timing, and advice that changes with constitution and season.",
+            "Opposites, again: an increased dosha is pacified by substances with the opposite qualities.",
+            "Shamana settles an imbalance; Shodhana removes accumulated imbalance, and its best known set is Panchakarma.",
+            "The safety line: herbs can interact with prescribed medicine, so tell every doctor what you take.",
+            "Principles and practice with sources, on the MEDHAS blog. Tomorrow: Ama."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Agni",
+          "media": [
+            "media/agni/reel.mp4"
+          ],
+          "thumb": "media/agni/t_reel.jpg",
+          "caption": "One word sits behind most Ayurvedic advice about food. 🌿\n\nAgni, often translated as digestive fire, is the power that transforms food into nourishment. Fire is a metaphor for what it does.\n\nIt is not a modern addition either. The Sushruta Samhita's definition of a healthy person names it directly: the doshas in equilibrium, digestion (agni) balanced, the tissues in equilibrium, the wastes eliminated properly, and the soul, senses and mind pleasant.\n\nIn the classical view, weak or irregular agni is a root of many disorders, which is why so much of the tradition's dietary advice exists to protect it.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Agni #DigestiveFire #Digestion #LearnAyurveda #AyurvedaIndia #SushrutaSamhita #HolisticHealth",
+          "cover": "media/agni/cover.jpg",
+          "caption_fb": "One word sits behind most Ayurvedic advice about food. 🌿\n\nAgni, often translated as digestive fire, is the power that transforms food into nourishment. Fire is a metaphor for what it does.\n\nIt is not a modern addition either. The Sushruta Samhita's definition of a healthy person names it directly: the doshas in equilibrium, digestion (agni) balanced, the tissues in equilibrium, the wastes eliminated properly, and the soul, senses and mind pleasant.\n\nIn the classical view, weak or irregular agni is a root of many disorders, which is why so much of the tradition's dietary advice exists to protect it.\n\nBoth carousels on our page go further, one into the texts and one into the kitchen."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Agni, the digestive fire",
+          "media": [
+            "media/agni/L1.jpg",
+            "media/agni/L2.jpg",
+            "media/agni/L3.jpg",
+            "media/agni/L4.jpg",
+            "media/agni/L5.jpg",
+            "media/agni/L6.jpg",
+            "media/agni/L7.jpg"
+          ],
+          "thumb": "media/agni/t_left.jpg",
+          "caption": "Ayurveda's definition of health names digestion out loud. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What the word actually means\n2. The verse it appears in, and why that matters\n3. Why weak digestion is read as a root\n4. The unglamorous questions a vaidya asks\n5. Where we stop: this is not a claim about your metabolism\n\nThen watch the reel beside this post, and read Part 3 for the practical half.",
+          "first_comment": "#Ayurveda #Agni #Digestion #SushrutaSamhita #LearnAyurveda #AyurvedaIndia #AyurvedaStudent",
+          "alt": [
+            "Cover: Agni, the digestive fire: the one word behind most Ayurvedic advice about food.",
+            "Often translated as digestive fire: the power that transforms food into nourishment.",
+            "It is in the definition: a person is healthy when the doshas are in equilibrium, digestion is balanced, the tissues are in equilibrium, the wastes are eliminated properly and the mind is pleasant.",
+            "Weak digestion is read as a root of many disorders, and much dietary advice exists to protect it.",
+            "What is actually asked: appetite, digestion, sleep, stool, urine and sweat.",
+            "A caution: Agni is a concept inside a traditional system. It is not a measurement, and this post does not diagnose anything.",
+            "Part 3: why Ayurveda keeps talking about meals."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ama",
+      "key": "Day07",
+      "title": "Ama",
+      "approved": true,
+      "review": [
+        "Seven dhatus, three malas, health depending on nourishment and clearance — From our published guide",
+        "Slides A2 and A4: Ama itself — Pending a verse citation. Ama does not appear in our published guide, so both slides carry a source line saying the citation is pending. Either add the citation before posting or hold this day."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Four things Ama is not",
+          "media": [
+            "media/ama/R1.jpg",
+            "media/ama/R2.jpg",
+            "media/ama/R3.jpg",
+            "media/ama/R4.jpg",
+            "media/ama/R5.jpg",
+            "media/ama/R6.jpg",
+            "media/ama/R7.jpg"
+          ],
+          "thumb": "media/ama/t_right.jpg",
+          "caption": "If a post uses the word \"Ama\" and then sells you something, read this first. 🌿\n\nPart 3 of tonight's posts. Four corrections:\n\n1. It is not \"toxins in your blood\"\n2. It is not a reason to buy a detox\n3. A coated tongue does not prove it\n4. It does not explain whatever is wrong\n\nThen the working rule, which is duller and more useful than any of them.\n\nPart 1 explains what the term actually names.",
+          "first_comment": "#Ayurveda #Ama #MythVsFact #Digestion #LearnAyurveda #AyurvedaIndia #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: Four things Ama is not, because this is the most misused word on the internet.",
+            "Myth: Ama is toxins in your blood. It is a term inside Ayurveda's own framework, not a laboratory finding.",
+            "Myth: so you need a detox product. The classical response is decided by a practitioner, not bought online.",
+            "Myth: a coated tongue proves it. The eightfold examination reads the tongue alongside seven other signs.",
+            "Myth: it explains whatever is wrong. One word cannot carry a diagnosis.",
+            "The working rule: protect digestion, and clear what should clear. Routine before remedies.",
+            "Digestion and tissues with sources, on the MEDHAS blog. Tomorrow: the seven dhatus."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Ama",
+          "media": [
+            "media/ama/reel.mp4"
+          ],
+          "thumb": "media/ama/t_reel.jpg",
+          "caption": "Ama does not mean toxins. 🌿\n\nWhere Agni names the power that transforms food into nourishment, Ama is the classical term for what is left when that transformation is incomplete.\n\nThat is the whole claim. It is a term inside Ayurveda's own framework, not a laboratory finding, and translating it as \"toxins\" imports a claim the texts do not make.\n\nWhat the tradition does say is plainer: health depends on the tissues being nourished and the wastes being cleared. Which is why an examination asks about digestion, sleep, stool, urine and sweat, and why routine comes before remedies.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Ama #Agni #Digestion #LearnAyurveda #AyurvedaIndia #MythVsFact #HolisticHealth",
+          "cover": "media/ama/cover.jpg",
+          "caption_fb": "Ama does not mean toxins. 🌿\n\nWhere Agni names the power that transforms food into nourishment, Ama is the classical term for what is left when that transformation is incomplete.\n\nThat is the whole claim. It is a term inside Ayurveda's own framework, not a laboratory finding, and translating it as \"toxins\" imports a claim the texts do not make.\n\nWhat the tradition does say is plainer: health depends on the tissues being nourished and the wastes being cleared. Which is why an examination asks about digestion, sleep, stool, urine and sweat, and why routine comes before remedies.\n\nThe two carousels on our page cover what the term names, and the four corrections worth having."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Ama, undigested residue",
+          "media": [
+            "media/ama/L1.jpg",
+            "media/ama/L2.jpg",
+            "media/ama/L3.jpg",
+            "media/ama/L4.jpg",
+            "media/ama/L5.jpg",
+            "media/ama/L6.jpg",
+            "media/ama/L7.jpg"
+          ],
+          "thumb": "media/ama/t_left.jpg",
+          "caption": "Yesterday: what digests. Today: what does not. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Ama as the counterpart of Agni\n2. Why the tradition cares: health depends on what is cleared\n3. Where it comes from, and why so much advice is about digestion\n4. How it is assessed, and why it is not self diagnosed\n5. The honest part: a traditional concept, stated as one\n\nThen watch the reel beside this post, and read Part 3 for four corrections worth having.",
+          "first_comment": "#Ayurveda #Ama #Agni #Dhatu #LearnAyurveda #AyurvedaIndia #AyurvedaStudent #IndianKnowledge",
+          "alt": [
+            "Cover: Ama: undigested residue. A classical term, and what it does not mean.",
+            "Ama is the counterpart of Agni: what is left when the transformation of food is incomplete.",
+            "Health depends on what is cleared: seven tissues, three main wastes, and an examination that asks about all of it.",
+            "It follows from weak digestion, which the classical view treats as a root of many disorders.",
+            "Looked for, not self diagnosed: tongue, pulse, appetite and history are read together.",
+            "The honest part: Ama belongs to Ayurveda's own vocabulary and does not map onto a measurement in modern physiology.",
+            "Part 3: four things Ama is not."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhatus",
+      "key": "Day08",
+      "title": "The seven dhatus",
+      "approved": true,
+      "review": [
+        "Seven dhatus and three malas; health depending on nourishment and clearance — From our published guide",
+        "Slides A3 and A4: the seven names and their translations — Pending. The names Rasa, Rakta, Mamsa, Meda, Asthi, Majja and Shukra, their order, and the English glosses on the slides are not in our published guide. Confirm against a published translation before posting, and correct the reel's on screen list at the same time if anything changes."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Why the list matters",
+          "media": [
+            "media/dhatus/R1.jpg",
+            "media/dhatus/R2.jpg",
+            "media/dhatus/R3.jpg",
+            "media/dhatus/R4.jpg",
+            "media/dhatus/R5.jpg",
+            "media/dhatus/R6.jpg",
+            "media/dhatus/R7.jpg"
+          ],
+          "thumb": "media/dhatus/t_right.jpg",
+          "caption": "A list of seven tissues is trivia. What the texts do with it is not. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Tissues in equilibrium: the dhatus sit inside the definition of health\n2. Four parts, one sentence: body, digestion, waste, mind\n3. Why the questions in a consultation sound so ordinary\n4. Seven layers, one record\n5. What a post cannot do\n\nPart 1 has the seven, in the order the texts give.",
+          "first_comment": "#Ayurveda #Dhatu #SushrutaSamhita #CaseSheet #LearnAyurveda #AyurvedaIndia #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: Why the list matters. Health is described as tissues in equilibrium.",
+            "Tissues in equilibrium: the classical definition of a healthy person, from Sushruta Samhita, Sutrasthana 15.41.",
+            "Four parts, one sentence: body, digestion, waste and mind. A good consultation examines all four.",
+            "Which is why the questions sound ordinary: digestion, sleep, stool, urine and sweat are the readable signs.",
+            "Seven layers, one record. Because so many details go into a consultation, the case sheet is central.",
+            "Education, not a plan. Constitution, season, medicines and history decide the advice.",
+            "Tissues and wastes with sources, on the MEDHAS blog. Tomorrow: Ojas."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "The seven dhatus",
+          "media": [
+            "media/dhatus/reel.mp4"
+          ],
+          "thumb": "media/dhatus/t_reel.jpg",
+          "caption": "Ayurveda counts the body in sevens. 🌿\n\nClassical texts describe seven tissues, the dhatus, and three main waste products, the malas. The sequence is the point: nourishment is described as passing along a chain, each layer fed by the one before it.\n\nWhich is why digestion comes first in the tradition's advice. If the chain begins with what food becomes, everything downstream depends on it.\n\nAnd it is why health is defined the way it is: the doshas in equilibrium, digestion balanced, the tissues in equilibrium, the wastes eliminated properly, and the soul, senses and mind pleasant.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Dhatu #Rasa #Rakta #SushrutaSamhita #LearnAyurveda #AyurvedaIndia #HolisticHealth",
+          "cover": "media/dhatus/cover.jpg",
+          "caption_fb": "Ayurveda counts the body in sevens. 🌿\n\nClassical texts describe seven tissues, the dhatus, and three main waste products, the malas. The sequence is the point: nourishment is described as passing along a chain, each layer fed by the one before it.\n\nWhich is why digestion comes first in the tradition's advice. If the chain begins with what food becomes, everything downstream depends on it.\n\nAnd it is why health is defined the way it is: the doshas in equilibrium, digestion balanced, the tissues in equilibrium, the wastes eliminated properly, and the soul, senses and mind pleasant.\n\nThe two carousels on our page have the seven in order, and what the texts do with them."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "The seven dhatus",
+          "media": [
+            "media/dhatus/L1.jpg",
+            "media/dhatus/L2.jpg",
+            "media/dhatus/L3.jpg",
+            "media/dhatus/L4.jpg",
+            "media/dhatus/L5.jpg",
+            "media/dhatus/L6.jpg",
+            "media/dhatus/L7.jpg"
+          ],
+          "thumb": "media/dhatus/t_left.jpg",
+          "caption": "Rasa, Rakta, Mamsa, Meda, Asthi, Majja, Shukra. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What dhatu means\n2. The first four, in the order the texts give\n3. And the last three, each fed by the one before\n4. Why a sequence explains where digestion sits\n5. A caution: this is not a modern anatomy chart\n\nThen watch the reel beside this post, and read Part 3 on what the texts actually do with the list.",
+          "first_comment": "#Ayurveda #Dhatu #SevenTissues #LearnAyurveda #AyurvedaIndia #AyurvedaStudent #Sanskrit #IndianKnowledge",
+          "alt": [
+            "Cover: The seven dhatus: tissues that build the body, in the order the texts give.",
+            "Dhatu means what holds. Seven tissues and three main waste products describe what the body is built from and what it clears.",
+            "The first four: Rasa, plasma and nutrient fluid; Rakta, blood; Mamsa, muscle; Meda, fat.",
+            "And the last three: Asthi, bone; Majja, marrow; Shukra, reproductive tissue. Each fed by the one before.",
+            "Why a sequence: if the chain begins with what food becomes, everything downstream depends on digestion.",
+            "A caution: the dhatus are a classical description, not a modern anatomy chart, and we are not claiming an equivalence.",
+            "Part 3: what the texts do with the list."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ojas",
+      "key": "Day09",
+      "title": "Ojas",
+      "approved": true,
+      "review": [
+        "Slide A2 and the reel: Ojas at the end of the dhatu chain — Pending a verse citation. Ojas does not appear in our published guide. The slide carries a pending source line. Confirm against a published translation, or hold this day."
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "What Ojas is not a word for",
+          "media": [
+            "media/ojas/R1.jpg",
+            "media/ojas/R2.jpg",
+            "media/ojas/R3.jpg",
+            "media/ojas/R4.jpg",
+            "media/ojas/R5.jpg",
+            "media/ojas/R6.jpg",
+            "media/ojas/R7.jpg"
+          ],
+          "thumb": "media/ojas/t_right.jpg",
+          "caption": "Read this before your next supplement order. 🌿\n\nPart 3 of tonight's posts. Four things Ojas is not a word for:\n\n1. A supplement you can swallow\n2. A reason to skip quality checks\n3. A replacement for your prescription\n4. A claim you should accept without a source\n\nAnd then what is actually left, which nobody needs to sell you.\n\nPart 1 explains what the classical accounts describe.",
+          "first_comment": "#Ayurveda #Ojas #Rasayana #LearnAyurveda #AyurvedaIndia #MythVsFact #Vaidya #IndianKnowledge",
+          "alt": [
+            "Cover: What Ojas is not a word for, especially when it appears on a product.",
+            "Not a supplement you can swallow. In classical accounts Ojas is the result of a process, not an ingredient added to it.",
+            "Not a reason to skip quality checks. Some Ayurvedic products sold outside India have been found to contain lead, arsenic or mercury.",
+            "Not a replacement for your prescription. Ayurvedic approaches should be used alongside standard medical care, not instead of it.",
+            "Not a claim to accept without a source: does it name a text, separate tradition from research, and avoid promising a cure?",
+            "What is left: regular sleep, regular meals, eating with the season, and a practitioner who writes it down.",
+            "Treatment and safety with sources, on the MEDHAS blog. Tomorrow: Manas, the mind in Ayurveda."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Ojas",
+          "media": [
+            "media/ojas/reel.mp4"
+          ],
+          "thumb": "media/ojas/t_reel.jpg",
+          "caption": "A word that sells a lot of bottles. 🌿\n\nYesterday's seven tissues describe nourishment passing from one layer to the next. Classical accounts place Ojas at the end of that chain, as the refined essence the process leaves behind.\n\nWhich means it is an outcome, not an ingredient. If it comes last in a chain that starts with digestion, the tradition's own advice points at regular sleep, regular meals and eating with the season, not at a purchase.\n\nWhat we will not do is translate it as \"immunity\". That would be a claim the texts do not make, and one we have no evidence for.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ayurveda #Ojas #Rasayana #Dhatu #LearnAyurveda #AyurvedaIndia #HolisticHealth #EvidenceBased",
+          "cover": "media/ojas/cover.jpg",
+          "caption_fb": "A word that sells a lot of bottles. 🌿\n\nYesterday's seven tissues describe nourishment passing from one layer to the next. Classical accounts place Ojas at the end of that chain, as the refined essence the process leaves behind.\n\nWhich means it is an outcome, not an ingredient. If it comes last in a chain that starts with digestion, the tradition's own advice points at regular sleep, regular meals and eating with the season, not at a purchase.\n\nWhat we will not do is translate it as \"immunity\". That would be a claim the texts do not make, and one we have no evidence for.\n\nThe two carousels on our page cover what the accounts describe, and what the label is not allowed to imply."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Ojas, the essence of vitality",
+          "media": [
+            "media/ojas/L1.jpg",
+            "media/ojas/L2.jpg",
+            "media/ojas/L3.jpg",
+            "media/ojas/L4.jpg",
+            "media/ojas/L5.jpg",
+            "media/ojas/L6.jpg",
+            "media/ojas/L7.jpg"
+          ],
+          "thumb": "media/ojas/t_left.jpg",
+          "caption": "Classical accounts place Ojas at the end of the chain, not in a bottle. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The end of the chain\n2. Why the advice that follows sounds so dull\n3. Vitality described with the mind included\n4. Rasayana: the classical category for this\n5. Where we stop: we will not call it immunity\n\nThen watch the reel beside this post, and read Part 3 before your next supplement order.",
+          "first_comment": "#Ayurveda #Ojas #Rasayana #LearnAyurveda #AyurvedaIndia #AyurvedaStudent #Dinacharya #IndianKnowledge",
+          "alt": [
+            "Cover: Ojas: the essence of vitality. A classical idea, described carefully and sold carelessly.",
+            "The end of the chain: classical accounts place Ojas as the refined essence the process of nourishment leaves behind.",
+            "Which is why the advice sounds dull: regular sleep, regular meals and eating with the season.",
+            "Vitality with the mind included: the classical definition of health ends with the soul, senses and mind being pleasant.",
+            "Rasayana, rejuvenation, covers tonics and practices aimed at long term vitality, one group of treatment among six.",
+            "Where we stop: we will not translate Ojas as immunity, because that is a claim the texts do not make.",
+            "Part 3: what Ojas is not a word for."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manas",
+      "key": "Day10",
+      "title": "Manas, the mind",
+      "approved": true,
+      "review": [],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "What this post cannot do",
+          "media": [
+            "media/manas/R1.jpg",
+            "media/manas/R2.jpg",
+            "media/manas/R3.jpg",
+            "media/manas/R4.jpg",
+            "media/manas/R5.jpg",
+            "media/manas/R6.jpg",
+            "media/manas/R7.jpg"
+          ],
+          "thumb": "media/manas/t_right.jpg",
+          "caption": "On the mind, the most useful thing we can post is a limit and a phone number. 🌿\n\nPart 3 of tonight's posts. Swipe through:\n\n1. A post is not a consultation\n2. Tele MANAS: 14416, or 1-800 891 4416, toll free, in many languages\n3. What the tradition does say: routine is where it begins\n4. And what it does not: no herb here is a prescription\n5. One thing you can do today\n\nIf you are struggling, please talk to someone who is trained to listen.",
+          "first_comment": "#WorldMentalHealthDay #Manas #Ayurveda #MentalHealth #TeleMANAS #LearnAyurveda #AyurvedaIndia",
+          "alt": [
+            "Cover: What this post cannot do, and where to go instead.",
+            "A post is not a consultation. Nothing on this page can assess you, and distress is not a dosha to be looked up.",
+            "Tele MANAS, India's national mental health helpline: 14416, or 1-800 891 4416, toll free. If someone is in immediate danger, treat it as an emergency and get local help at once.",
+            "What the tradition does say: regular sleep, regular meals and eating with the season are the gentlest steps in the classical texts.",
+            "And what it does not: few well designed trials exist, and herbs can interact with prescribed medicine.",
+            "One thing you can do today: ask someone how they actually are, and wait for the second answer.",
+            "The mind in context, with sources, on the MEDHAS blog. Next week: Dinacharya, the daily routine."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Manas",
+          "media": [
+            "media/manas/reel.mp4"
+          ],
+          "thumb": "media/manas/t_reel.jpg",
+          "caption": "Ayurveda's oldest definition of health ends with the mind. 🌿\n\nThe Sushruta Samhita, Sutrasthana 15.41: a person is healthy when the doshas are in equilibrium, digestion is balanced, the tissues are in equilibrium, the wastes are eliminated properly, and the soul, senses and mind are pleasant.\n\nThat last clause is not an afterthought. Sleep, stress, appetite and mood are recorded in a consultation, in the same case sheet as everything else.\n\nAnd a limit: a post cannot assess anyone. If today is hard, Tele MANAS is toll free, on 14416 or 1-800 891 4416. If someone is in immediate danger, treat it as an emergency and get local help at once.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#WorldMentalHealthDay #Manas #Ayurveda #MentalHealth #SushrutaSamhita #TeleMANAS #AyurvedaIndia",
+          "cover": "media/manas/cover.jpg"
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Manas, the mind in Ayurveda",
+          "media": [
+            "media/manas/L1.jpg",
+            "media/manas/L2.jpg",
+            "media/manas/L3.jpg",
+            "media/manas/L4.jpg",
+            "media/manas/L5.jpg",
+            "media/manas/L6.jpg",
+            "media/manas/L7.jpg"
+          ],
+          "thumb": "media/manas/t_left.jpg",
+          "caption": "The mind was written into the definition of health, not added to it later. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The last clause of Sushruta's definition\n2. Mind and body are not separate\n3. Which is why you are asked about sleep\n4. Health was never only the absence of symptoms\n5. Where we stop: this is not treatment advice\n\nThen watch the reel beside this post, and read Part 3, which has the helpline on it.",
+          "first_comment": "#WorldMentalHealthDay #Manas #Ayurveda #SushrutaSamhita #MentalHealth #LearnAyurveda #AyurvedaIndia",
+          "alt": [
+            "Cover: Manas: the mind in Ayurveda, written into the definition of health.",
+            "The definition of health ends with the mind: the soul, senses and mind are pleasant. Sushruta Samhita, Sutrasthana 15.41.",
+            "Mind and body are not separate. Sleep, stress, appetite and mood are all recorded in a consultation.",
+            "Which is why you are asked about sleep: a consultation covers complaint, history, digestion, sleep, habits, constitution, season, place and age.",
+            "Health was never only the absence of symptoms: the verse has a bodily part, a digestive part, an excretory part and a mental part.",
+            "Where we stop: this is not treatment advice, and nothing here diagnoses anyone or replaces care from a qualified professional.",
+            "Part 3: what this post cannot do."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sandhi",
+      "key": "O12",
+      "title": "Sandhi",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "B4 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Joint pain is a signal",
+          "media": [
+            "media/sandhi/R1.jpg",
+            "media/sandhi/R2.jpg",
+            "media/sandhi/R3.jpg",
+            "media/sandhi/R4.jpg",
+            "media/sandhi/R5.jpg",
+            "media/sandhi/R6.jpg",
+            "media/sandhi/R7.jpg"
+          ],
+          "thumb": "media/sandhi/t_right.jpg",
+          "caption": "Joint pain is a signal. Here is when to get it checked. 🦴\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why a post cannot examine a joint\n2. The signs that need a doctor promptly\n3. What public health advice recommends for everyone\n4. If you see a vaidya, tell them what else you take\n5. A small ask: ask someone how their joints are\n\nPart 1 explains how the Sushruta Samhita counted the body's joints.",
+          "first_comment": "#WorldArthritisDay #Arthritis #JointHealth #Ayurveda #Sandhi #AyurvedaIndia #LearnAyurveda",
+          "alt": [
+            "Cover: Joint pain is a signal. What a post cannot tell you about your knees.",
+            "A post cannot examine a joint. Pain, swelling and stiffness have many causes, and some forms of arthritis do lasting damage if they are not treated early. A caption cannot tell which one you have.",
+            "When a joint needs a doctor: Hot, red or swollen, especially with fever; Stiff for long in the morning, or getting worse week by week; Painful after an injury, or unable to bear weight.",
+            "Movement is advice. Public health guidance on arthritis recommends staying physically active and at a healthy weight. It is the least exotic advice in the world, and it agrees with the tradition's emphasis on routine.",
+            "Tell them what else you take. Herbs and oils can interact with prescribed medicine, and quality varies by maker. Keep your doctor and your vaidya informed of everything, and never stop a prescribed medicine because an Ayurvedic product is available.",
+            "Ask someone how their joints are. Arthritis is common and often quiet. Many people live with it for years before they mention it. Today is a reasonable day to ask, and to suggest an examination if it has been a while.",
+            "Structure and the doshas, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Dinacharya, the ideal Ayurvedic day."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Joints in Ayurveda",
+          "media": [
+            "media/sandhi/reel.mp4"
+          ],
+          "thumb": "media/sandhi/t_reel.jpg",
+          "caption": "Sushruta counted every joint in the body. 🦴\n\nThe Sushruta Samhita describes 210 sandhis, or joints, and separates the ones that move from the ones that hold. Classical texts even name the moisture that keeps them moving: shleshaka Kapha.\n\nBut the most useful line is the practical one. A joint that is hot, swollen, or stiff for long in the morning needs a doctor promptly. Early diagnosis changes outcomes in inflammatory arthritis.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#WorldArthritisDay #Ayurveda #Sandhi #SushrutaSamhita #JointHealth #AyurvedaIndia #LearnAyurveda",
+          "cover": "media/sandhi/cover.jpg",
+          "caption_fb": "Sushruta counted every joint in the body. 🦴\n\nThe Sushruta Samhita describes 210 sandhis, or joints, and separates the ones that move from the ones that hold. Classical texts even name the moisture that keeps them moving: shleshaka Kapha.\n\nBut the most useful line is the practical one. A joint that is hot, swollen, or stiff for long in the morning needs a doctor promptly. Early diagnosis changes outcomes in inflammatory arthritis.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "210 joints, by count",
+          "media": [
+            "media/sandhi/L1.jpg",
+            "media/sandhi/L2.jpg",
+            "media/sandhi/L3.jpg",
+            "media/sandhi/L4.jpg",
+            "media/sandhi/L5.jpg",
+            "media/sandhi/L6.jpg",
+            "media/sandhi/L7.jpg"
+          ],
+          "thumb": "media/sandhi/t_left.jpg",
+          "caption": "The Sushruta Samhita counted 210 joints. 🦴\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Sandhi: where two parts meet\n2. Joints that move, and joints that hold\n3. Shleshaka Kapha, the lubricant with a name\n4. Sandhivata and amavata, and why we do not map them onto modern diagnoses\n5. The daily routine that sits under all of it\n\nThen watch the reel beside this post, and read Part 3 on when to see a doctor.",
+          "first_comment": "#WorldArthritisDay #Ayurveda #Sandhi #SushrutaSamhita #Kapha #AyurvedaIndia #LearnAyurveda",
+          "alt": [
+            "Cover: 210 joints, by count. How the Sushruta Samhita counted the body's joints.",
+            "Sushruta counted two hundred and ten. The Sushruta Samhita, the surgical text, describes 210 sandhis, or joints, in its chapter on the body's structure. Counting was part of how a surgeon learned the body. Sandhi: The word means a junction: where two parts meet.",
+            "Some move, some hold. The same chapter separates joints that move from joints that stay fixed. chala: movable, knees, elbows, fingers, sthira: fixed, skull, pelvis.",
+            "A lubricant with a name. Classical texts describe a subtype of Kapha, shleshaka Kapha, as the moisture that keeps joints moving smoothly. It is the Kapha idea of structure and lubrication, applied to one place.",
+            "Sandhivata and amavata. The texts describe joint conditions under their own names. Sandhivata is often compared with osteoarthritis and amavata with rheumatoid arthritis, but those comparisons are modern analogies, not diagnoses.",
+            "Routine comes up again. Classical advice for joints sits inside the same daily routine as everything else: regular movement, regular meals and regular sleep. Nothing on this list needs to be bought.",
+            "Part 3: Part 3: joint pain is a signal. What to do first, before anything a post says."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dinacharya",
+      "key": "O13",
+      "title": "Dinacharya",
+      "approved": true,
+      "review": [
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "B4 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Start with one",
+          "media": [
+            "media/dinacharya/R1.jpg",
+            "media/dinacharya/R2.jpg",
+            "media/dinacharya/R3.jpg",
+            "media/dinacharya/R4.jpg",
+            "media/dinacharya/R5.jpg",
+            "media/dinacharya/R6.jpg",
+            "media/dinacharya/R7.jpg"
+          ],
+          "thumb": "media/dinacharya/t_right.jpg",
+          "caption": "Nobody does the whole Ayurvedic routine. Start with one habit. ☀️\n\nPart 3 of tonight's posts. Swipe through:\n\n1. The honest problem with a complete routine\n2. Three places to start\n3. How the season changes the routine\n4. Why your routine is part of your history\n5. This week: one habit a day\n\nPart 1 explains what Dinacharya is.",
+          "first_comment": "#Dinacharya #Ayurveda #DailyRoutine #Habits #AyurvedaIndia #LearnAyurveda #HolisticHealth",
+          "alt": [
+            "Cover: Start with one. Why the routine is a direction, not a checklist.",
+            "Nobody does all of it. Read as a checklist, the classical morning takes hours. Read as a direction, it is easier: a few steady habits, repeated, matter more than a complete routine done for a week and then dropped.",
+            "If you pick one, pick these: Wake at the same time, weekends included; Eat at the same times, and let one meal digest before the next; Sleep at the same time, the one the other two depend on.",
+            "The day sits inside a year. The texts pair the daily routine with a seasonal one, Ritucharya. The same habit can be advised in one season and adjusted in another, which is why routines are personal, not universal.",
+            "Your routine is part of the history. A consultation covers diet, appetite, digestion, sleep and daily habits. Your routine is not small talk. It is part of the record a practitioner reads.",
+            "One habit a day. Tomorrow, waking early. Then oil in the mouth, tongue scraping, oil massage and sleep. Each one gets its own day, what the texts say, and what we will not claim about it.",
+            "Routine and lifestyle, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Brahma Muhurta, why Ayurveda praises early mornings."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "A day, in order",
+          "media": [
+            "media/dinacharya/reel.mp4"
+          ],
+          "thumb": "media/dinacharya/t_reel.jpg",
+          "caption": "Ayurveda's first medicine is a timetable. ☀️\n\nDinacharya, the daily routine, is where the tradition's first aim is actually practised: to preserve the health of the healthy, as the Charaka Samhita puts it.\n\nThe texts give it a chapter of its own: waking, cleaning, oil, exercise, bathing, meals and sleep, in order. The logic underneath is regularity.\n\nSame time, most days. This week we take the routine one habit at a time.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Dinacharya #Ayurveda #DailyRoutine #AyurvedicLifestyle #AyurvedaIndia #LearnAyurveda #CharakaSamhita",
+          "cover": "media/dinacharya/cover.jpg",
+          "caption_fb": "Ayurveda's first medicine is a timetable. ☀️\n\nDinacharya, the daily routine, is where the tradition's first aim is actually practised: to preserve the health of the healthy, as the Charaka Samhita puts it.\n\nThe texts give it a chapter of its own: waking, cleaning, oil, exercise, bathing, meals and sleep, in order. The logic underneath is regularity.\n\nSame time, most days. This week we take the routine one habit at a time.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "The ideal Ayurvedic day",
+          "media": [
+            "media/dinacharya/L1.jpg",
+            "media/dinacharya/L2.jpg",
+            "media/dinacharya/L3.jpg",
+            "media/dinacharya/L4.jpg",
+            "media/dinacharya/L5.jpg",
+            "media/dinacharya/L6.jpg",
+            "media/dinacharya/L7.jpg"
+          ],
+          "thumb": "media/dinacharya/t_left.jpg",
+          "caption": "Dina means day. Charya means conduct. 🌅\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What Dinacharya is, and where our guide places it\n2. Where the texts write it down\n3. The classical morning, in order\n4. Why the order matters: regularity\n5. A routine, not a treatment\n\nThen watch the reel beside this post, and read Part 3 for the version that survives a weekday.",
+          "first_comment": "#Dinacharya #Ayurveda #AshtangaHridaya #DailyRoutine #AyurvedaIndia #LearnAyurveda #Vihara",
+          "alt": [
+            "Cover: The ideal Ayurvedic day. Dinacharya: the daily routine, as the texts lay it out.",
+            "Dina means day, charya means conduct. Dinacharya is the daily routine. Our guide places it under Vihara, lifestyle, alongside sleep, exercise and work. It is where Ayurveda's first aim, protecting health, is actually practised. The First Aim: Preserve the health of the healthy. Routine is how.",
+            "A chapter of its own. The Ashtanga Hridaya opens its second chapter with the daily routine, and the Charaka Samhita covers it in a chapter on daily regimen. The texts treat ordinary habits as medicine's first line.",
+            "What the morning holds.  waking early, cleaning teeth, tongue scraping, oil in the mouth, oil massage, exercise, bathing.",
+            "Regularity is the point. The routine is not a list of rituals to collect. Its logic is regularity: waking, eating and sleeping at steady times, so that the body has a rhythm to keep. That is what our guide means by starting with routine.",
+            "A routine, not a treatment. Daily routine is how the tradition describes staying well. It is not a treatment for any illness, and it does not replace care for anything that is already wrong.",
+            "Part 3: Part 3: start with one. The version of Dinacharya that survives a weekday."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brahma-muhurta",
+      "key": "O14",
+      "title": "Brahma Muhurta",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "B2 — Pending. Confirm before posting",
+        "B3 — Pending. Confirm before posting",
+        "Reel — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Early, but not at any cost",
+          "media": [
+            "media/brahma-muhurta/R1.jpg",
+            "media/brahma-muhurta/R2.jpg",
+            "media/brahma-muhurta/R3.jpg",
+            "media/brahma-muhurta/R4.jpg",
+            "media/brahma-muhurta/R5.jpg",
+            "media/brahma-muhurta/R6.jpg",
+            "media/brahma-muhurta/R7.jpg"
+          ],
+          "thumb": "media/brahma-muhurta/t_right.jpg",
+          "caption": "Early rising, but not at any cost. 🌄\n\nPart 3 of tonight's posts. Swipe through:\n\n1. The verse is addressed to the healthy\n2. Early rising needs early sleep\n3. The honest exceptions: shifts, babies, illness\n4. A gentler version: fifteen minutes earlier\n5. When poor sleep needs a doctor, not an alarm\n\nPart 1 explains what Brahma Muhurta is.",
+          "first_comment": "#BrahmaMuhurta #Ayurveda #Sleep #MorningRoutine #AyurvedaIndia #LearnAyurveda #Dinacharya",
+          "alt": [
+            "Cover: Early, but not at any cost. What the verse says, and who it is addressed to.",
+            "Addressed to the healthy. The verse speaks to a healthy person. The texts do not ask someone who is unwell, exhausted or recovering to cut their sleep short for a principle.",
+            "Early rising needs early sleep. The texts count sleep among the three supports of life. Waking early only works inside a routine that also sleeps early. Cutting sleep to rise early is not what the verse describes.",
+            "If your life runs differently: Night shifts, anchor to your own sleep, not the sun; A new baby at home, rest when you can; Illness or recovery, sleep is part of the treatment.",
+            "Fifteen minutes earlier. If the hour before sunrise feels impossible, move your waking time a little earlier each week, and your sleep with it. Regularity is the part the texts care about most. The Pattern: Earlier and steady beats early and exhausted.",
+            "Education, not a plan. Your health, your work and your household decide your routine. If you are struggling with sleep, that is a reason to see a doctor, not to set an earlier alarm.",
+            "Routine and lifestyle, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Gandusha, oil pulling explained."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "The hour before sunrise",
+          "media": [
+            "media/brahma-muhurta/reel.mp4"
+          ],
+          "thumb": "media/brahma-muhurta/t_reel.jpg",
+          "caption": "The daily routine starts before sunrise. 🌄\n\nThe Ashtanga Hridaya opens its chapter on daily routine with waking time: a healthy person should rise in Brahma Muhurta, the period roughly an hour and a half before sunrise.\n\nTwo things the verse does not say: that everyone must do it, or that you should cut your sleep to manage it. It is addressed to the healthy, and early rising only works with early sleep.\n\nEarlier, and steady. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#BrahmaMuhurta #Ayurveda #EarlyRising #Dinacharya #AyurvedaIndia #LearnAyurveda #AshtangaHridaya",
+          "cover": "media/brahma-muhurta/cover.jpg",
+          "caption_fb": "The daily routine starts before sunrise. 🌄\n\nThe Ashtanga Hridaya opens its chapter on daily routine with waking time: a healthy person should rise in Brahma Muhurta, the period roughly an hour and a half before sunrise.\n\nTwo things the verse does not say: that everyone must do it, or that you should cut your sleep to manage it. It is addressed to the healthy, and early rising only works with early sleep.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Why Ayurveda praises dawn",
+          "media": [
+            "media/brahma-muhurta/L1.jpg",
+            "media/brahma-muhurta/L2.jpg",
+            "media/brahma-muhurta/L3.jpg",
+            "media/brahma-muhurta/L4.jpg",
+            "media/brahma-muhurta/L5.jpg",
+            "media/brahma-muhurta/L6.jpg",
+            "media/brahma-muhurta/L7.jpg"
+          ],
+          "thumb": "media/brahma-muhurta/t_left.jpg",
+          "caption": "Why does Ayurveda praise the hour before dawn? 🌄\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The first line of the daily routine\n2. When Brahma Muhurta is, and why it moves with the sun\n3. Why waking time anchors the whole day\n4. What the hour is traditionally used for\n5. What we will not claim\n\nThen watch the reel beside this post, and read Part 3 for the fine print.",
+          "first_comment": "#BrahmaMuhurta #Ayurveda #Dawn #Dinacharya #AyurvedaIndia #LearnAyurveda #MorningRoutine",
+          "alt": [
+            "Cover: Why Ayurveda praises dawn. Brahma Muhurta: the hour before sunrise.",
+            "Quote: A healthy person should rise in Brahma Muhurta, to protect their life. Ashtanga Hridaya · Sutrasthana 2.1.",
+            "Roughly an hour and a half before sunrise. A muhurta is a traditional unit of about 48 minutes. Brahma Muhurta is usually reckoned as the one before the last of the night, so it moves with the sunrise and the season. So In Practice: It is tied to the sun, not to a clock time.",
+            "The day starts with its anchor. Everything in the daily routine hangs off waking time: the morning habits, the meals, the evening. A steady, early start is how the rest of the routine gets its rhythm.",
+            "Quiet, and unhurried. Many traditions use the hour for study, prayer or simply stillness before the household wakes. That use is widely taught, and it is a reasonable reading of why the hour is praised.",
+            "Not a productivity hack. We will not tell you that waking at four will change your metabolism or your career. The verse describes a routine for a healthy person. Anything beyond that is somebody else's claim.",
+            "Part 3: Part 3: early, but not at any cost. Who the verse is addressed to, and who it is not."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gandusha",
+      "key": "O15",
+      "title": "Gandusha",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "B2 — Pending. Confirm before posting",
+        "B4 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Not instead of brushing",
+          "media": [
+            "media/gandusha/R1.jpg",
+            "media/gandusha/R2.jpg",
+            "media/gandusha/R3.jpg",
+            "media/gandusha/R4.jpg",
+            "media/gandusha/R5.jpg",
+            "media/gandusha/R6.jpg",
+            "media/gandusha/R7.jpg"
+          ],
+          "thumb": "media/gandusha/t_right.jpg",
+          "caption": "Oil pulling does not replace brushing. Here is where it fits. 🦷\n\nPart 3 of tonight's posts. Swipe through:\n\n1. What dentists say about it\n2. Safety first: never swallow the oil\n3. Where it sits in the classical routine\n4. Medicated oils are medicine\n5. What a post cannot do\n\nPart 1 explains gandusha and kavala.",
+          "first_comment": "#OilPulling #Gandusha #Ayurveda #OralHealth #AyurvedaIndia #LearnAyurveda #Dinacharya",
+          "alt": [
+            "Cover: Not instead of brushing. Where the tradition stops and your dentist starts.",
+            "Dentists do not recommend it as a replacement. Dental bodies have said there is not enough reliable evidence to recommend oil pulling for oral health, and it should not replace brushing, flossing or dental visits. The Simple Rule: Brush twice, clean between teeth, see a dentist.",
+            "If you try it: Never swallow the oil, and do not do it lying down; Not for young children, the risk of swallowing is real; Stop with any mouth pain, and see a dentist.",
+            "One step among several. In the texts, oil in the mouth comes after cleaning the teeth and scraping the tongue, not instead of them. Pulled out of that routine, it loses the context it was written in.",
+            "Medicated oils are medicine. Classical mouth preparations can include herbs. Quality varies by maker, so buy from reputable manufacturers and tell both your dentist and your doctor what you use.",
+            "Education, not dentistry. Bleeding gums, tooth pain and bad breath that will not go away have causes a dentist can find. A habit, old or new, is not a substitute for that examination.",
+            "Routine and safety, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Jihwa nirlekhana, tongue scraping."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Oil pulling explained",
+          "media": [
+            "media/gandusha/reel.mp4"
+          ],
+          "thumb": "media/gandusha/t_reel.jpg",
+          "caption": "Oil pulling is older than the trend. 🦷\n\nHolding oil in the mouth appears in the classical daily routine, after cleaning the teeth and scraping the tongue. The texts even separate two practices: gandusha, holding the liquid still, and kavala, moving it around.\n\nWhat it is not: a replacement for brushing. Dental bodies have said the evidence is not strong enough to recommend it for oral health, and it should never replace brushing, flossing or a dentist.\n\nBrush first. Always. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#OilPulling #Gandusha #Ayurveda #Kavala #AyurvedaIndia #LearnAyurveda #Dinacharya",
+          "cover": "media/gandusha/cover.jpg",
+          "caption_fb": "Oil pulling is older than the trend. 🦷\n\nHolding oil in the mouth appears in the classical daily routine, after cleaning the teeth and scraping the tongue. The texts even separate two practices: gandusha, holding the liquid still, and kavala, moving it around.\n\nWhat it is not: a replacement for brushing. Dental bodies have said the evidence is not strong enough to recommend it for oral health, and it should never replace brushing, flossing or a dentist.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Oil pulling, before the trend",
+          "media": [
+            "media/gandusha/L1.jpg",
+            "media/gandusha/L2.jpg",
+            "media/gandusha/L3.jpg",
+            "media/gandusha/L4.jpg",
+            "media/gandusha/L5.jpg",
+            "media/gandusha/L6.jpg",
+            "media/gandusha/L7.jpg"
+          ],
+          "thumb": "media/gandusha/t_left.jpg",
+          "caption": "Gandusha and kavala: two practices, often confused. 🌿\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Where oil in the mouth comes from\n2. Hold, or swish: the classical difference\n3. What is used, and why oil is one option\n4. How it is traditionally done\n5. What we will not claim\n\nThen watch the reel beside this post, and read Part 3 on where your dentist comes in.",
+          "first_comment": "#Gandusha #Kavala #Ayurveda #OilPulling #AyurvedaIndia #LearnAyurveda #AshtangaHridaya",
+          "alt": [
+            "Cover: Oil pulling, before the trend. Gandusha and kavala: two practices, often confused.",
+            "A morning habit from the texts. Holding oil in the mouth appears in the classical daily routine, after cleaning the teeth and scraping the tongue. Oil pulling, as it is sold online, is a modern name for an old habit.",
+            "Hold, or swish: Gandusha, fill the mouth and hold, without moving; Kavala, a smaller amount, moved around the mouth.",
+            "Oil is one option. The texts describe several liquids for the mouth, chosen by purpose. Sesame oil is the one most people mean today. sesame oil, medicated oils, milk, decoctions, warm water.",
+            "A few minutes, then spit it out. Traditionally a small amount of warm oil is held or moved in the mouth for a few minutes and then spat out, never swallowed. It is followed by rinsing with warm water.",
+            "Not a whitening treatment. We will not claim that oil pulling whitens teeth, removes toxins or cures gum disease. The texts describe it as part of a routine. Claims beyond that need evidence we have not seen.",
+            "Part 3: Part 3: not instead of brushing. Where the tradition stops and your dentist starts."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tongue-scraping",
+      "key": "O16",
+      "title": "Tongue Scraping",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "A tongue is also evidence",
+          "media": [
+            "media/tongue-scraping/R1.jpg",
+            "media/tongue-scraping/R2.jpg",
+            "media/tongue-scraping/R3.jpg",
+            "media/tongue-scraping/R4.jpg",
+            "media/tongue-scraping/R5.jpg",
+            "media/tongue-scraping/R6.jpg",
+            "media/tongue-scraping/R7.jpg"
+          ],
+          "thumb": "media/tongue-scraping/t_right.jpg",
+          "caption": "Your tongue is also evidence. Here is why your vaidya looks at it. 👅\n\nPart 3 of tonight's posts. Swipe through:\n\n1. One of eight signs in the classical examination\n2. Why one sign is not a finding\n3. What to get checked by a doctor or dentist\n4. Who should go gently\n5. What a post cannot do\n\nPart 1 explains Jihwa nirlekhana.",
+          "first_comment": "#TongueScraping #Ayurveda #OralHygiene #AyurvedaIndia #LearnAyurveda #Dinacharya #AshtavidhaPariksha",
+          "alt": [
+            "Cover: A tongue is also evidence. Why a vaidya looks at it, and why you should not.",
+            "One of eight signs. The eightfold examination reads the tongue alongside the pulse, voice, skin, eyes, stool, urine and general appearance. A vaidya may ask you not to scrape it on the morning of a visit.",
+            "One sign is not a finding. A coated or coloured tongue can follow food, drink, smoking, medicine or illness. On its own it tells you very little, which is why the examination reads eight signs together.",
+            "Get these checked: A sore that does not heal, in two weeks or more; A white or red patch, that will not scrape away; Pain, swelling or bleeding, without a clear reason.",
+            "Easy on a sore mouth. Skip it if your tongue is sore, cut or ulcerated, and do not use it on young children. A strong gag reflex is a reason to keep it short and near the front.",
+            "Education, not dentistry. Persistent bad breath, a changing tongue or a painful mouth have causes a dentist or doctor can find. A habit is a habit. It does not replace that examination.",
+            "The examination, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Abhyanga, the self massage ritual."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Tongue scraping explained",
+          "media": [
+            "media/tongue-scraping/reel.mp4"
+          ],
+          "thumb": "media/tongue-scraping/t_reel.jpg",
+          "caption": "Two minutes, every morning. 👅\n\nJihwa nirlekhana, tongue scraping, sits in the classical morning routine after cleaning the teeth and before oil in the mouth. The texts describe a smooth, curved scraper. What matters is that the edge is blunt.\n\nAnd a second reason to know your tongue: it is one of the eight signs in the classical examination, read together with the pulse, voice, skin, eyes, stool, urine and appearance.\n\nGentle, and blunt. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#TongueScraping #JihwaNirlekhana #Ayurveda #AyurvedaIndia #LearnAyurveda #Dinacharya #MorningRoutine",
+          "cover": "media/tongue-scraping/cover.jpg",
+          "caption_fb": "Two minutes, every morning. 👅\n\nJihwa nirlekhana, tongue scraping, sits in the classical morning routine after cleaning the teeth and before oil in the mouth. The texts describe a smooth, curved scraper. What matters is that the edge is blunt.\n\nAnd a second reason to know your tongue: it is one of the eight signs in the classical examination, read together with the pulse, voice, skin, eyes, stool, urine and appearance.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Scraping the tongue",
+          "media": [
+            "media/tongue-scraping/L1.jpg",
+            "media/tongue-scraping/L2.jpg",
+            "media/tongue-scraping/L3.jpg",
+            "media/tongue-scraping/L4.jpg",
+            "media/tongue-scraping/L5.jpg",
+            "media/tongue-scraping/L6.jpg",
+            "media/tongue-scraping/L7.jpg"
+          ],
+          "thumb": "media/tongue-scraping/t_left.jpg",
+          "caption": "Jihwa, tongue. Nirlekhana, scraping. A two minute habit from the texts. 👅\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The word, and where it sits in the routine\n2. Smooth, curved, blunt: what it is made of\n3. How it is done, gently\n4. Why the texts clean the whole mouth\n5. What we will not claim\n\nThen watch the reel beside this post, and read Part 3 on what your tongue tells a vaidya.",
+          "first_comment": "#JihwaNirlekhana #TongueScraping #Ayurveda #AyurvedaIndia #LearnAyurveda #Dinacharya #OralHygiene",
+          "alt": [
+            "Cover: Scraping the tongue. Jihwa nirlekhana: a two minute habit from the texts.",
+            "Jihwa, tongue. Nirlekhana, scraping.. The classical morning routine includes cleaning the tongue with a curved scraper after cleaning the teeth. It is one of the shortest habits in the whole routine. In One Line: Teeth first, then the tongue, then oil in the mouth.",
+            "Smooth, curved, blunt. The texts describe a smooth, curved scraper, traditionally of metal. What matters in practice is that the edge is blunt. copper, silver, steel, a smooth curve, a blunt edge.",
+            "Back to front, gently, a few times. Place the scraper towards the back of the tongue, draw it forward with light pressure, rinse, and repeat a few times. It should never hurt, and it should never draw blood.",
+            "Clean the whole mouth. The texts treat the mouth as a whole: teeth, tongue and gums each get a step. Scraping the tongue is simply the step that looks after the part a toothbrush tends to miss.",
+            "Not a detox for the body. We will not claim that scraping the tongue removes toxins from the body, improves digestion or cures anything. It is a hygiene habit described in the texts, and that is how we describe it.",
+            "Part 3: Part 3: a tongue is also evidence. Why your vaidya looks at it before you scrape it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abhyanga",
+      "key": "O17",
+      "title": "Abhyanga",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "B2 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Not for every day",
+          "media": [
+            "media/abhyanga/R1.jpg",
+            "media/abhyanga/R2.jpg",
+            "media/abhyanga/R3.jpg",
+            "media/abhyanga/R4.jpg",
+            "media/abhyanga/R5.jpg",
+            "media/abhyanga/R6.jpg",
+            "media/abhyanga/R7.jpg"
+          ],
+          "thumb": "media/abhyanga/t_right.jpg",
+          "caption": "Oil every day? Read the next verse first. 🫙\n\nPart 3 of tonight's posts. Myth and fact:\n\n1. “Everyone should oil every day.” The texts list exceptions.\n2. “More oil is better.” It is a practice, not a quantity contest.\n3. “Any oil labelled Ayurvedic is fine.” Quality varies by maker.\n\nThen when to skip it or ask first.\n\nPart 1 explains what the verse recommends.",
+          "first_comment": "#Abhyanga #Ayurveda #SelfMassage #MythVsFact #AyurvedaIndia #LearnAyurveda #Dinacharya",
+          "alt": [
+            "Cover: Not for every day. The same verse that recommends it says when not to.",
+            "Myth: “Everyone should oil every day.” What the texts say: The very next verse lists exceptions. Oil massage is described as unsuitable during Kapha aggravation, straight after cleansing therapies, and during indigestion.",
+            "Myth: “More oil is better.” What the texts say: The texts describe a practice, not a quantity contest. Enough to cover the skin, worked in and washed off, is the traditional picture. A slippery floor is a real risk.",
+            "Myth: “Any oil labelled Ayurvedic is fine.” What the texts say: Quality varies by maker, and medicated oils contain herbs. Buy from reputable manufacturers and stop if your skin reacts.",
+            "If any of these apply: Fever or feel unwell, rest first; Skin rash, wound or infection, keep oil off broken skin; Pregnancy, ask your doctor or vaidya.",
+            "Education, not a plan. Which oil, how often and whether at all depends on your constitution, your season and your health. A vaidya can answer that for you. A caption cannot.",
+            "Vata and routine, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Nidra, sleep in Ayurveda."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Myth and fact",
+          "media": [
+            "media/abhyanga/reel.mp4"
+          ],
+          "thumb": "media/abhyanga/t_reel.jpg",
+          "caption": "Oil, every day? Read the next verse. 🫙\n\nThe Ashtanga Hridaya recommends abhyanga, oil massage, as part of the daily routine, with special attention to the head, the ears and the feet. It follows straight from the principle that opposites balance: warm oil against dry, cold Vata.\n\nBut the very next verse lists exceptions. Oil massage is described as unsuitable during Kapha aggravation, straight after cleansing therapies, and during indigestion.\n\nWarm oil, read carefully. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Abhyanga #Ayurveda #OilMassage #Vata #AyurvedaIndia #LearnAyurveda #AshtangaHridaya",
+          "cover": "media/abhyanga/cover.jpg",
+          "caption_fb": "Oil, every day? Read the next verse. 🫙\n\nThe Ashtanga Hridaya recommends abhyanga, oil massage, as part of the daily routine, with special attention to the head, the ears and the feet. It follows straight from the principle that opposites balance: warm oil against dry, cold Vata.\n\nBut the very next verse lists exceptions. Oil massage is described as unsuitable during Kapha aggravation, straight after cleansing therapies, and during indigestion.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Oil, every day",
+          "media": [
+            "media/abhyanga/L1.jpg",
+            "media/abhyanga/L2.jpg",
+            "media/abhyanga/L3.jpg",
+            "media/abhyanga/L4.jpg",
+            "media/abhyanga/L5.jpg",
+            "media/abhyanga/L6.jpg",
+            "media/abhyanga/L7.jpg"
+          ],
+          "thumb": "media/abhyanga/t_left.jpg",
+          "caption": "Abhyanga: what the texts actually say about self massage. 🫙\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The verse, reported as the text makes it\n2. The head, the ears and the feet\n3. Why oil: opposites, once more\n4. How it is traditionally done\n5. What we will not claim\n\nThen watch the reel beside this post, and read Part 3 for the exceptions.",
+          "first_comment": "#Abhyanga #Ayurveda #SelfMassage #Dinacharya #AyurvedaIndia #LearnAyurveda #Vata",
+          "alt": [
+            "Cover: Oil, every day. Abhyanga: what the texts say about self massage.",
+            "Quote: Oil massage should be done every day; it counters ageing, fatigue and excess Vata. Ashtanga Hridaya · Sutrasthana 2.8.",
+            "Three places in particular. The same passage singles out three parts of the body for oil. the head, the ears, the feet.",
+            "Opposites, once more. Vata is described as dry, light, cold and moving. Warm oil is unctuous, heavy and warm: the opposite qualities. The recommendation follows directly from the principle that opposites balance.",
+            "Warm oil, then a warm bath. Traditionally, warm oil is worked into the skin with long strokes on the limbs and circles on the joints, left for a while, and then washed off with a warm bath.",
+            "Not an anti ageing product. The verse says what it says, and we report it as tradition. We will not turn it into a promise that oiling your skin slows ageing. That would be a claim the evidence does not make.",
+            "Part 3: Part 3: not for every day. The exceptions the same verse lists."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nidra",
+      "key": "O18",
+      "title": "Nidra",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "Reel — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Poor sleep is a symptom",
+          "media": [
+            "media/nidra/R1.jpg",
+            "media/nidra/R2.jpg",
+            "media/nidra/R3.jpg",
+            "media/nidra/R4.jpg",
+            "media/nidra/R5.jpg",
+            "media/nidra/R6.jpg",
+            "media/nidra/R7.jpg"
+          ],
+          "thumb": "media/nidra/t_right.jpg",
+          "caption": "Poor sleep is a symptom. Here is when to see someone. 🌙\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why a post cannot fix sleep\n2. The signs worth an examination\n3. Why sleep is in your case sheet\n4. The gentle part: regular, dark and early\n5. If you take anything for sleep, tell your doctor\n\nIf worry is keeping you awake, Tele MANAS is toll free on 14416.\n\nPart 1 explains why the texts put sleep beside food.",
+          "first_comment": "#Nidra #Sleep #Ayurveda #SleepHealth #AyurvedaIndia #LearnAyurveda #CharakaSamhita",
+          "alt": [
+            "Cover: Poor sleep is a symptom. Worth an examination, not only a routine.",
+            "A post cannot fix sleep. Sleep problems have many causes: stress, pain, breathing problems during sleep, medicines, mood and more. Some of them are serious, and a routine alone will not reach them.",
+            "Worth an examination: Loud snoring or gasping, or daytime sleepiness; Poor sleep most nights, for several weeks; Low mood or worry, keeping you awake.",
+            "Sleep is in the record. A consultation records sleep alongside diet, appetite and digestion. Your sleep is not small talk. It is part of the history a practitioner reads.",
+            "Regular, dark, and early. The routine's advice is plain: sleep and wake at steady times, keep the evening quiet, and let the last meal digest before bed. None of it needs to be bought. The Pattern: Same bedtime, most nights.",
+            "Tell your doctor what you take. Herbs sold for sleep can interact with prescribed medicine, and quality varies by maker. Never combine them with sleeping tablets or stop a prescribed medicine without advice.",
+            "The mind and routine, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: eat with the sun, Ayurvedic meal timing."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Sleep in Ayurveda",
+          "media": [
+            "media/nidra/reel.mp4"
+          ],
+          "thumb": "media/nidra/t_reel.jpg",
+          "caption": "Ayurveda puts sleep beside food. 🌙\n\nThe Charaka Samhita names three supports of life: food, sleep, and a restrained, disciplined life. And it makes a strong claim about sleep: happiness and sorrow, strength and weakness, knowledge and ignorance depend on it.\n\nThe practical version is plain: same bedtime, most nights, a quiet evening, and a last meal that has digested before you lie down.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Nidra #Sleep #Ayurveda #Trayopastambha #AyurvedaIndia #LearnAyurveda #SleepHygiene",
+          "cover": "media/nidra/cover.jpg",
+          "caption_fb": "Ayurveda puts sleep beside food. 🌙\n\nThe Charaka Samhita names three supports of life: food, sleep, and a restrained, disciplined life. And it makes a strong claim about sleep: happiness and sorrow, strength and weakness, knowledge and ignorance depend on it.\n\nThe practical version is plain: same bedtime, most nights, a quiet evening, and a last meal that has digested before you lie down.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Sleep is a pillar",
+          "media": [
+            "media/nidra/L1.jpg",
+            "media/nidra/L2.jpg",
+            "media/nidra/L3.jpg",
+            "media/nidra/L4.jpg",
+            "media/nidra/L5.jpg",
+            "media/nidra/L6.jpg",
+            "media/nidra/L7.jpg"
+          ],
+          "thumb": "media/nidra/t_left.jpg",
+          "caption": "Sleep is one of the three supports of life. 🌙\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Food, sleep and restraint: the three supports\n2. What the texts say depends on sleep\n3. Night sleep, mostly at night\n4. Why early rising needs early sleep\n5. What we will not claim\n\nThen watch the reel beside this post, and read Part 3 on when poor sleep needs a doctor.",
+          "first_comment": "#Nidra #Sleep #Ayurveda #CharakaSamhita #AyurvedaIndia #LearnAyurveda #Dinacharya",
+          "alt": [
+            "Cover: Sleep is a pillar. Nidra: one of the three supports of life.",
+            "Food, sleep and restraint. The Charaka Samhita names three upastambhas, supports of life: ahara, food; nidra, sleep; and brahmacharya, a disciplined, restrained life. Sleep sits beside food, not below it. Trayopastambha: The three sub pillars that hold up a healthy life.",
+            "Quote: Happiness and sorrow, nourishment and wasting, strength and weakness, knowledge and ignorance depend on sleep. Charaka Samhita · Sutrasthana 21.",
+            "Night sleep, mostly at night. The texts generally discourage daytime sleep for most people, with exceptions such as the hottest season, the very young, the old and the unwell. The rule is sleep when it is dark.",
+            "Early rising needs early sleep. Wednesday's early morning only works inside a routine that also sleeps early. Cutting sleep to rise sooner is not what the texts describe. They describe both ends of the night, together.",
+            "Not a sleep remedy. This is how a traditional system frames sleep. It is not a treatment for insomnia, and no herb on social media is a safe replacement for a conversation with a doctor.",
+            "Part 3: Part 3: poor sleep is a symptom. When to stop adjusting your routine and see someone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "meal-timing",
+      "key": "O19",
+      "title": "Meal Timing",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "B3 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Two rules, not one",
+          "media": [
+            "media/meal-timing/R1.jpg",
+            "media/meal-timing/R2.jpg",
+            "media/meal-timing/R3.jpg",
+            "media/meal-timing/R4.jpg",
+            "media/meal-timing/R5.jpg",
+            "media/meal-timing/R6.jpg",
+            "media/meal-timing/R7.jpg"
+          ],
+          "thumb": "media/meal-timing/t_right.jpg",
+          "caption": "Classical, or taught today? Two meal timing rules, labelled honestly. ☀️\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Why we label our sources\n2. Classical and modern rules, side by side\n3. Why midday: the popular reasoning\n4. The evening meal: light, and not late\n5. What a post cannot plan for you\n\nPart 1 explains the classical rule.",
+          "first_comment": "#MealTiming #Ayurveda #Agni #Digestion #AyurvedaIndia #LearnAyurveda #Ahara",
+          "alt": [
+            "Cover: Two rules, not one. What is classical, and what is taught today.",
+            "Classical, or taught today?. Much of what is shared as Ayurvedic meal timing is modern teaching built on classical ideas. Both can be useful. They are still different statements, and we label them separately.",
+            "Which is which: Classical, eat after the last meal digests; Classical, eat in proper quantity; Taught today, largest meal around midday; Taught today, an early, light dinner.",
+            "The sun, and digestion. The popular reasoning is that digestion is described as strongest around midday, when the sun is highest. It is a reasonable reading of the tradition. It is not a verse we can cite.",
+            "Light, and not late. Most teaching agrees the last meal should be lighter and early enough to digest before sleep. That links meal timing straight back to Sunday's post on sleep. The Pattern: Supper that has digested by bedtime.",
+            "Education, not a plan. Your work, your health and your medicines decide your meal times. Shift work, diabetes and pregnancy all change the answer. A doctor and a vaidya can plan it with you.",
+            "Digestion and routine, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Shadrasa, the six tastes."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "When, not what",
+          "media": [
+            "media/meal-timing/reel.mp4"
+          ],
+          "thumb": "media/meal-timing/t_reel.jpg",
+          "caption": "The real meal timer is digestion. ☀️\n\nThe Charaka Samhita's rules of eating say to eat only after the previous meal has digested. Hunger is the signal; the clock is a reminder.\n\nThe popular rule that the largest meal should be at midday is modern teaching built on classical ideas. It is a reasonable reading of the tradition, but not a verse we can cite, so we label it as teaching.\n\nEat with the sun. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#MealTiming #Ayurveda #EatWithTheSun #Agni #AyurvedaIndia #LearnAyurveda #CharakaSamhita",
+          "cover": "media/meal-timing/cover.jpg",
+          "caption_fb": "The real meal timer is digestion. ☀️\n\nThe Charaka Samhita's rules of eating say to eat only after the previous meal has digested. Hunger is the signal; the clock is a reminder.\n\nThe popular rule that the largest meal should be at midday is modern teaching built on classical ideas. It is a reasonable reading of the tradition, but not a verse we can cite, so we label it as teaching.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Eat with the sun",
+          "media": [
+            "media/meal-timing/L1.jpg",
+            "media/meal-timing/L2.jpg",
+            "media/meal-timing/L3.jpg",
+            "media/meal-timing/L4.jpg",
+            "media/meal-timing/L5.jpg",
+            "media/meal-timing/L6.jpg",
+            "media/meal-timing/L7.jpg"
+          ],
+          "thumb": "media/meal-timing/t_left.jpg",
+          "caption": "Eat when the last meal has digested. That is the classical rule. ☀️\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Jirne ashniyat: the rule in the Charaka Samhita\n2. The signs of an empty stomach\n3. Why it matters: back to Agni\n4. Regular, then: same times, most days\n5. What we will not claim\n\nThen watch the reel beside this post, and read Part 3 on what is classical and what is modern.",
+          "first_comment": "#MealTiming #Ayurveda #Digestion #Ahara #AyurvedaIndia #LearnAyurveda #CharakaSamhita",
+          "alt": [
+            "Cover: Eat with the sun. What the texts say about when to eat.",
+            "Eat when the last meal has digested. The Charaka Samhita's rules of eating include eating only after the previous meal has been digested. The clock is secondary. The real timer is digestion. Jirne Ashniyat: Eat after the previous meal is digested.",
+            "The signs of an empty stomach. Traditional teaching describes the signs: genuine hunger, a light body, a clear belch, easy bowels and a willingness to eat. Snacking before those arrive stacks one meal on another.",
+            "Back to Agni. The classical view treats weak or irregular digestion as a root of many disorders. Eating on top of an undigested meal is the most ordinary way to make digestion irregular.",
+            "Same times, most days. Once meals follow digestion, they tend to settle into steady times. That regularity is the part our guide puts first: regular meals, regular sleep, eating with the season.",
+            "Not a weight loss plan. Meal timing in the texts is about digestion and routine. We will not sell it as a diet, and anyone with diabetes or on medicine should plan meal times with their doctor.",
+            "Part 3: Part 3: two rules, not one. What is classical, and what is modern teaching."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shadrasa",
+      "key": "O21",
+      "title": "Shadrasa",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "A5 — Pending. Confirm before posting",
+        "B2 — Pending. Confirm before posting",
+        "B3 — Pending. Confirm before posting",
+        "Reel — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Taste as a tool",
+          "media": [
+            "media/shadrasa/R1.jpg",
+            "media/shadrasa/R2.jpg",
+            "media/shadrasa/R3.jpg",
+            "media/shadrasa/R4.jpg",
+            "media/shadrasa/R5.jpg",
+            "media/shadrasa/R6.jpg",
+            "media/shadrasa/R7.jpg"
+          ],
+          "thumb": "media/shadrasa/t_right.jpg",
+          "caption": "Each dosha is settled by three of the six tastes. 🍋\n\nPart 3 of tonight's posts. Swipe through:\n\n1. How tastes raise and settle the doshas\n2. What settles what: Vata, Pitta, Kapha\n3. A meal with all six, and why we label it modern teaching\n4. Why taste is not a diet on its own\n5. What a post cannot plan for you\n\nPart 1 names the six.",
+          "first_comment": "#Shadrasa #SixTastes #Ayurveda #Doshas #AyurvedaIndia #LearnAyurveda #Ahara",
+          "alt": [
+            "Cover: Taste as a tool. How the tastes connect to the doshas.",
+            "Tastes raise and settle the doshas. The classical texts describe each taste as increasing some doshas and settling others. It is the principle of like and opposite qualities, applied to flavour.",
+            "Three doshas, three sets: Vata, sweet, sour, salty; Pitta, sweet, bitter, astringent; Kapha, pungent, bitter, astringent.",
+            "The six on one plate. A common modern teaching is that a balanced meal includes all six tastes. A thali often does this without trying: dal, rice, sabzi, pickle, chutney and buttermilk. Our Label: Modern teaching, built on a classical list.",
+            "Not a diet by flavour. Choosing food by taste alone is not what the texts describe. A vaidya reads taste together with your constitution, your digestion and the season. The list is a vocabulary, not a prescription.",
+            "Education, not a plan. If you have diabetes, kidney disease, high blood pressure or any condition with dietary rules, those rules come first. Taste is a way of describing food, not a treatment.",
+            "Diet and the doshas, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Ahara rules, how to eat, not just what."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "The six tastes",
+          "media": [
+            "media/shadrasa/reel.mp4"
+          ],
+          "thumb": "media/shadrasa/t_reel.jpg",
+          "caption": "Ayurveda counts six tastes. 🍋\n\nSweet, sour, salty, pungent, bitter and astringent. The classical texts use them to describe every food and medicine, and each one raises some doshas and settles others.\n\nVata is settled by sweet, sour and salty. Pitta by sweet, bitter and astringent. Kapha by pungent, bitter and astringent. Opposites balance, once more.\n\nSix on one plate. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Shadrasa #SixTastes #Ayurveda #Rasa #AyurvedaIndia #LearnAyurveda #Doshas",
+          "cover": "media/shadrasa/cover.jpg",
+          "caption_fb": "Ayurveda counts six tastes. 🍋\n\nSweet, sour, salty, pungent, bitter and astringent. The classical texts use them to describe every food and medicine, and each one raises some doshas and settles others.\n\nVata is settled by sweet, sour and salty. Pitta by sweet, bitter and astringent. Kapha by pungent, bitter and astringent. Opposites balance, once more.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Six tastes, not four",
+          "media": [
+            "media/shadrasa/L1.jpg",
+            "media/shadrasa/L2.jpg",
+            "media/shadrasa/L3.jpg",
+            "media/shadrasa/L4.jpg",
+            "media/shadrasa/L5.jpg",
+            "media/shadrasa/L6.jpg",
+            "media/shadrasa/L7.jpg"
+          ],
+          "thumb": "media/shadrasa/t_left.jpg",
+          "caption": "Six tastes, not four. How Ayurveda sorts every flavour. 🍋\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Rasa means taste\n2. Sweet, sour, salty\n3. Pungent, bitter, astringent\n4. Each taste is a pairing of two elements\n5. Why taste is the vocabulary of diet advice\n\nThen watch the reel beside this post, and read Part 3 on how taste meets the doshas.",
+          "first_comment": "#Shadrasa #Rasa #Ayurveda #SixTastes #AyurvedaIndia #LearnAyurveda #PanchaMahabhuta",
+          "alt": [
+            "Cover: Six tastes, not four. Shadrasa: how Ayurveda sorts every flavour.",
+            "Rasa means taste. The classical texts name six tastes and use them to describe every food and medicine. Taste is not only pleasure here. It is the first way a substance is classified. Shad Rasa: Shad, six. Rasa, taste.",
+            "Sweet, sour, salty: Madhura, sweet: rice, milk, ghee; Amla, sour: lemon, curd, tamarind; Lavana, salty: rock salt, sea salt.",
+            "Pungent, bitter, astringent: Katu, pungent: ginger, pepper, chilli; Tikta, bitter: neem, bitter gourd; Kashaya, astringent: pulses, unripe banana.",
+            "Each taste has two elements. The texts describe each taste as a pairing of two of the five elements. Sweet is earth and water; pungent is fire and air; bitter is air and space. It links taste back to our earlier post on the five elements.",
+            "Taste is how food becomes advice. Our guide describes diet advice in terms of the six tastes, meal timing and what suits a person and a season. Taste is the vocabulary that advice is written in.",
+            "Part 3: Part 3: taste as a tool. How the tastes line up with the three doshas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ahara",
+      "key": "O22",
+      "title": "Ahara",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "A5 — Pending. Confirm before posting",
+        "B2 — Pending. Confirm before posting",
+        "B3 — Pending. Confirm before posting",
+        "B4 — Pending. Confirm before posting",
+        "Reel — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Eight things decide it",
+          "media": [
+            "media/ahara/R1.jpg",
+            "media/ahara/R2.jpg",
+            "media/ahara/R3.jpg",
+            "media/ahara/R4.jpg",
+            "media/ahara/R5.jpg",
+            "media/ahara/R6.jpg",
+            "media/ahara/R7.jpg"
+          ],
+          "thumb": "media/ahara/t_right.jpg",
+          "caption": "Eight things decide whether a meal suits you, before any rule. 🍽️\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Eight factors, read first\n2. Nature, preparation, combination, quantity\n3. Place, time, manner, the person who eats\n4. Why no food is simply good\n5. What a post cannot plan for you\n\nPart 1 has the rules of eating.",
+          "first_comment": "#Ahara #Ayurveda #MindfulEating #RulesOfEating #AyurvedaIndia #LearnAyurveda #CharakaSamhita",
+          "alt": [
+            "Cover: Eight things decide it. The eight factors the texts read before any meal.",
+            "Eight factors, read first. Before any rule, the Charaka Samhita names eight factors that decide whether a food suits someone. The same food can be right in one situation and wrong in another.",
+            "Nature, preparation, combination: Prakriti, the nature of the food; Karana, how it is prepared; Samyoga, what it is combined with; Rashi, how much is eaten.",
+            "Place, time, manner, person: Desha, the place and climate; Kala, the time and season; Upayoga samstha, the rules of eating; Upabhokta, the person who eats.",
+            "No food is simply good. Under this reading there are no universal superfoods. Whether a food suits you depends on how it is made, what it meets, how much, where, when, and who you are. The Point: Suitability, not virtue.",
+            "Education, not a plan. Eight factors cannot be read from a caption. A vaidya can read them with you, and your doctor's dietary advice for any condition comes first.",
+            "Diet and digestion, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: Viruddha Ahara, food combinations the texts warn about."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "The rules of eating",
+          "media": [
+            "media/ahara/reel.mp4"
+          ],
+          "thumb": "media/ahara/t_reel.jpg",
+          "caption": "Most diets argue about ingredients. The texts argue about manner. 🍽️\n\nThe Charaka Samhita's rules of eating ask for food that is warm, a little unctuous, in proper quantity, and eaten only after the last meal has digested. Then how to eat it: not too fast, not too slow, in a pleasant place, not talking or laughing, with attention.\n\nWritten long before mindful eating had a name.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ahara #AharaVidhi #Ayurveda #MindfulEating #AyurvedaIndia #LearnAyurveda #CharakaSamhita",
+          "cover": "media/ahara/cover.jpg",
+          "caption_fb": "Most diets argue about ingredients. The texts argue about manner. 🍽️\n\nThe Charaka Samhita's rules of eating ask for food that is warm, a little unctuous, in proper quantity, and eaten only after the last meal has digested. Then how to eat it: not too fast, not too slow, in a pleasant place, not talking or laughing, with attention.\n\nWritten long before mindful eating had a name.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "How to eat, not what",
+          "media": [
+            "media/ahara/L1.jpg",
+            "media/ahara/L2.jpg",
+            "media/ahara/L3.jpg",
+            "media/ahara/L4.jpg",
+            "media/ahara/L5.jpg",
+            "media/ahara/L6.jpg",
+            "media/ahara/L7.jpg"
+          ],
+          "thumb": "media/ahara/t_left.jpg",
+          "caption": "How to eat, not what: the classical rules of eating. 🍽️\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Where the rules are written\n2. The food itself: warm, unctuous, enough\n3. The manner: not too fast, not too slow\n4. The last rule: eat with yourself in mind\n5. Rules, not a cure\n\nThen watch the reel beside this post, and read Part 3 on the eight factors.",
+          "first_comment": "#AharaVidhi #Ayurveda #HowToEat #Digestion #AyurvedaIndia #LearnAyurveda #Agni",
+          "alt": [
+            "Cover: How to eat, not what. The classical rules of eating, written two thousand years ago.",
+            "A set of rules for the meal. The Charaka Samhita gives a short list of rules for how to eat. Most diets argue about ingredients. This list is almost entirely about manner, timing and attention. Ahara Vidhi: Ahara, food. Vidhi, the method.",
+            "Warm, unctuous, enough. The first rules describe the meal: warm, with some fat, in the right quantity, and only after the last meal has digested. warm, a little unctuous, in proper quantity, after digestion.",
+            "Not too fast, not too slow. The next rules describe how to sit and eat. not too fast, not too slow, in a pleasant place, not talking or laughing, with attention.",
+            "Eat with yourself in mind. The list ends by asking the eater to consider their own body: what suits them, how much, and when. It is the same idea as Prakriti, applied to one plate.",
+            "Rules, not a cure. These are the tradition's rules for eating well. We will not claim they treat any disease. Anyone with a medical diet should follow it first, and ask how these fit around it.",
+            "Part 3: Part 3: eight things decide it. What the texts read before they judge any meal."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "viruddha-ahara",
+      "key": "O23",
+      "title": "Viruddha Ahara",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "A4 — Pending. Confirm before posting",
+        "B3 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Read it carefully",
+          "media": [
+            "media/viruddha-ahara/R1.jpg",
+            "media/viruddha-ahara/R2.jpg",
+            "media/viruddha-ahara/R3.jpg",
+            "media/viruddha-ahara/R4.jpg",
+            "media/viruddha-ahara/R5.jpg",
+            "media/viruddha-ahara/R6.jpg",
+            "media/viruddha-ahara/R7.jpg"
+          ],
+          "thumb": "media/viruddha-ahara/t_right.jpg",
+          "caption": "Before you panic about food combinations, read this. 🥛\n\nPart 3 of tonight's posts. Myth and fact:\n\n1. “These combinations will make you ill.”\n2. “The list is fixed and universal.”\n3. “It explains every stomach ache.”\n\nThen what is modern and real: allergies, intolerances and medicine interactions.\n\nPart 1 explains what the texts describe.",
+          "first_comment": "#ViruddhaAhara #Ayurveda #FoodCombining #MythVsFact #AyurvedaIndia #LearnAyurveda #Ahara",
+          "alt": [
+            "Cover: Read it carefully. What the list is, and what it is not.",
+            "Myth: “Eating these together will make you ill.” What the texts say: The texts describe incompatibility as depending on quantity, habit, digestion and the person. A classical caution is not a guarantee of harm, and fear of food is not the point.",
+            "Myth: “The list is fixed and universal.” What the texts say: The same chapter describes habit and strength as changing how incompatible foods affect a person. The texts themselves read it in context.",
+            "Myth: “It explains every stomach ache.” What the texts say: Persistent stomach pain, bloating, diarrhoea or weight loss have causes a doctor can find. A food combination is not a diagnosis.",
+            "Some food rules are medical. Allergies, intolerances and medicine and food interactions are real and can be serious. Those rules come from your doctor and your pharmacist, and they come first. Ask Your Pharmacist: Some medicines should not be taken with certain foods.",
+            "Education, not a plan. Your diet, your digestion and your medicines decide what suits you. A vaidya can read the classical side with you. Your doctor and pharmacist handle the medical side.",
+            "Diet and safety, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: ghee, the golden staple of Ayurveda."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Incompatible food",
+          "media": [
+            "media/viruddha-ahara/reel.mp4"
+          ],
+          "thumb": "media/viruddha-ahara/t_reel.jpg",
+          "caption": "Some foods, the texts say, do not mix. 🥛\n\nThe Charaka Samhita describes viruddha ahara: foods that are unsuitable together, or in a certain quantity, preparation, place or time. Milk with fish and honey with ghee in equal quantity are the examples cited most.\n\nBut the same texts read it in context: quantity, habit, digestion and the person. A classical caution is not a guarantee of harm, and fear of food is not the point.\n\nPart 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#ViruddhaAhara #Ayurveda #FoodCombinations #AyurvedaIndia #LearnAyurveda #CharakaSamhita #Ahara",
+          "cover": "media/viruddha-ahara/cover.jpg",
+          "caption_fb": "Some foods, the texts say, do not mix. 🥛\n\nThe Charaka Samhita describes viruddha ahara: foods that are unsuitable together, or in a certain quantity, preparation, place or time. Milk with fish and honey with ghee in equal quantity are the examples cited most.\n\nBut the same texts read it in context: quantity, habit, digestion and the person. A classical caution is not a guarantee of harm, and fear of food is not the point.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Foods that do not mix",
+          "media": [
+            "media/viruddha-ahara/L1.jpg",
+            "media/viruddha-ahara/L2.jpg",
+            "media/viruddha-ahara/L3.jpg",
+            "media/viruddha-ahara/L4.jpg",
+            "media/viruddha-ahara/L5.jpg",
+            "media/viruddha-ahara/L6.jpg",
+            "media/viruddha-ahara/L7.jpg"
+          ],
+          "thumb": "media/viruddha-ahara/t_left.jpg",
+          "caption": "Viruddha Ahara: the food combinations the texts warn about. 🥛\n\nPart 1 of tonight's posts. Swipe through:\n\n1. The idea, in the Charaka Samhita\n2. Incompatible by more than pairing\n3. The three examples cited most\n4. Why it fits the whole framework\n5. Not a list of poisons\n\nThen watch the reel beside this post, and read Part 3 before you panic.",
+          "first_comment": "#ViruddhaAhara #Ayurveda #IncompatibleFood #AyurvedaIndia #LearnAyurveda #CharakaSamhita #Diet",
+          "alt": [
+            "Cover: Foods that do not mix. Viruddha Ahara: what the texts warn about.",
+            "Some pairings, the texts say, do not suit. The Charaka Samhita describes viruddha ahara: foods that are unsuitable together, or in a certain quantity, preparation, place or time. It is the combination factor of yesterday's eight, in detail. Viruddha: Viruddha: opposed, or incompatible.",
+            "Incompatible by more than pairing. The texts describe incompatibility of many kinds, not just two foods together. combination, quantity, preparation, place, time, season, your digestion, your constitution.",
+            "Three that come up often: Milk and fish, a combination the texts caution against; Honey and ghee, in equal quantity; Heated honey, a preparation the texts caution against.",
+            "It fits the whole framework. If a food's effect depends on its preparation, quantity, season and the person eating it, then incompatibility follows naturally. Viruddha ahara is the framework's logic, not a separate rule.",
+            "Not a list of poisons. These are classical cautions. We will not claim that any combination on them causes a specific disease. Modern evidence on most of them is thin, and we say so plainly.",
+            "Part 3: Part 3: read it carefully. What the list is, and what it is not."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ghee",
+      "key": "O24",
+      "title": "Ghee",
+      "approved": true,
+      "review": [
+        "A2 — Pending. Confirm before posting",
+        "A3 — Pending. Confirm before posting",
+        "B2 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Still a fat",
+          "media": [
+            "media/ghee/R1.jpg",
+            "media/ghee/R2.jpg",
+            "media/ghee/R3.jpg",
+            "media/ghee/R4.jpg",
+            "media/ghee/R5.jpg",
+            "media/ghee/R6.jpg",
+            "media/ghee/R7.jpg"
+          ],
+          "thumb": "media/ghee/t_right.jpg",
+          "caption": "Ghee is still a fat. Where tradition and nutrition agree. 🧈\n\nPart 3 of tonight's posts. Myth and fact:\n\n1. “The texts say ghee is good, so eat plenty.”\n2. “Ghee has no downside.”\n3. “Any ghee labelled Ayurvedic is medicine.”\n\nThen where they agree: enough, not more.\n\nPart 1 explains why the texts rank ghee first.",
+          "first_comment": "#Ghee #Ayurveda #Ghrita #MythVsFact #AyurvedaIndia #LearnAyurveda #Nutrition",
+          "alt": [
+            "Cover: Still a fat. Where tradition and nutrition agree.",
+            "Myth: “The texts say ghee is good, so eat plenty.” What the texts say: The same texts ask for food in proper quantity and say incompatibility can come from quantity alone. Valued is not the same as unlimited.",
+            "Myth: “Ghee has no downside.” What the texts say: Ghee is mostly saturated fat. Nutrition guidance generally asks people to keep saturated fat moderate, especially with heart disease or high cholesterol.",
+            "Myth: “Any ghee labelled Ayurvedic is medicine.” What the texts say: Medicated ghee preparations contain herbs and should be prescribed, not self chosen. Quality varies by maker, so buy from reputable manufacturers.",
+            "Enough, not more. Tradition and modern nutrition land in the same place: a little ghee in a balanced diet, not ghee as a treatment. The quantity is the whole conversation. The Pattern: A spoon, not a jar.",
+            "Education, not a plan. If you have heart disease, high cholesterol, diabetes or a weight target, how much ghee suits you is a question for your doctor, not a caption.",
+            "Diet and safety, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Tomorrow: khichdi, the simplest healing meal."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Ghee, myth and fact",
+          "media": [
+            "media/ghee/reel.mp4"
+          ],
+          "thumb": "media/ghee/t_reel.jpg",
+          "caption": "Of four fats, the texts rank ghee first. 🧈\n\nThe Charaka Samhita's chapter on unctuous substances names ghee, oil, animal fat and marrow, and puts ghee at the top. One reason: it takes on the properties of what it is cooked with, which is why so many classical medicines are prepared in it.\n\nBut the same texts insist on proper quantity. Valued is not the same as unlimited.\n\nA spoon, not a jar. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Ghee #Ghrita #Ayurveda #CharakaSamhita #AyurvedaIndia #LearnAyurveda #Sneha",
+          "cover": "media/ghee/cover.jpg",
+          "caption_fb": "Of four fats, the texts rank ghee first. 🧈\n\nThe Charaka Samhita's chapter on unctuous substances names ghee, oil, animal fat and marrow, and puts ghee at the top. One reason: it takes on the properties of what it is cooked with, which is why so many classical medicines are prepared in it.\n\nBut the same texts insist on proper quantity. Valued is not the same as unlimited.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "Why the texts rank ghee first",
+          "media": [
+            "media/ghee/L1.jpg",
+            "media/ghee/L2.jpg",
+            "media/ghee/L3.jpg",
+            "media/ghee/L4.jpg",
+            "media/ghee/L5.jpg",
+            "media/ghee/L6.jpg",
+            "media/ghee/L7.jpg"
+          ],
+          "thumb": "media/ghee/t_left.jpg",
+          "caption": "Why do the classical texts rank ghee first? 🧈\n\nPart 1 of tonight's posts. Swipe through:\n\n1. Four fats, and one comes first\n2. Why: it carries what it is cooked with\n3. Where ghee shows up: kitchen, medicine, ritual\n4. A little, with the meal\n5. Not a superfood\n\nThen watch the reel beside this post, and read Part 3 on quantity.",
+          "first_comment": "#Ghee #Ghrita #Ayurveda #Sneha #AyurvedaIndia #LearnAyurveda #IndianKitchen",
+          "alt": [
+            "Cover: Why the texts rank ghee first. Of the four classical fats, one comes first.",
+            "Four fats, and one comes first. The Charaka Samhita's chapter on unctuous substances names four: ghee, oil, animal fat and marrow. Among them, it ranks ghee first. Sneha: The classical word for oils and fats.",
+            "It carries what it is cooked with. The texts describe ghee as taking on the properties of what it is processed with, without losing its own. That is why so many classical medicines are prepared in ghee: it is a carrier.",
+            "A kitchen staple, and a vehicle. Ghee appears in food, in medicine and in ritual. cooking, medicated ghee, oleation before cleansing, lamps, festivals.",
+            "A little, with the meal. Traditional teaching links a moderate amount of ghee with good digestion. Yesterday's rules of eating say the same in general terms: a little unctuousness, in proper quantity.",
+            "Not a superfood. We will not claim ghee treats any disease or that more is better. The texts value it, and they also insist on the right quantity. We report both halves.",
+            "Part 3: Part 3: still a fat. Where tradition and nutrition agree."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "khichdi",
+      "key": "O25",
+      "title": "Khichdi",
+      "approved": true,
+      "review": [
+        "A4 — Pending. Confirm before posting"
+      ],
+      "posts": [
+        {
+          "slot": "right",
+          "type": "carousel",
+          "title": "Everything, in one pot",
+          "media": [
+            "media/khichdi/R1.jpg",
+            "media/khichdi/R2.jpg",
+            "media/khichdi/R3.jpg",
+            "media/khichdi/R4.jpg",
+            "media/khichdi/R5.jpg",
+            "media/khichdi/R6.jpg",
+            "media/khichdi/R7.jpg"
+          ],
+          "thumb": "media/khichdi/t_right.jpg",
+          "caption": "The whole food week, in one bowl. 🍚\n\nPart 3 of tonight's posts. Swipe through:\n\n1. Six tastes and eight factors, from the start\n2. The three rules that matter most\n3. Green, then blue, then saffron: scroll our grid\n4. What a post cannot plan for you\n5. What is next: the festive weeks\n\nPart 1 explains the simplest meal.",
+          "first_comment": "#Khichdi #Ayurveda #ComfortFood #Agni #AyurvedaIndia #LearnAyurveda #Ahara",
+          "alt": [
+            "Cover: Everything, in one pot. Tastes, rules, combinations and ghee, together.",
+            "Six tastes, eight factors. Wednesday named six tastes. Thursday gave the rules of eating and the eight factors behind any meal. Friday read incompatible foods in context. Saturday put ghee in its place.",
+            "If you keep three: Eat after the last meal digests, hunger is the signal; Eat in proper quantity, enough, not full; Eat with attention, not too fast, not too slow.",
+            "Green, then blue, then saffron. Since Ayurveda Day our colours have walked from green, through the Ashoka Chakra blue, to saffron. Scroll our grid from the top and the three stripes read in order. A Small Thing: A tricolour, one evening at a time.",
+            "Education, not a plan. Your constitution, your digestion, your medicines and any medical diet decide what you should eat. A vaidya and your doctor can plan it with you. A caption cannot.",
+            "What comes next. Whatever the season, we will keep the same promise: one idea an evening, with its source, and no claim we cannot back.",
+            "Ayurveda, with sources: What Is Ayurveda? A Complete Guide, on the MEDHAS blog. Thank you for reading along."
+          ]
+        },
+        {
+          "slot": "reel",
+          "type": "reel",
+          "title": "Rest for digestion",
+          "media": [
+            "media/khichdi/reel.mp4"
+          ],
+          "thumb": "media/khichdi/t_reel.jpg",
+          "caption": "The lightest meal Ayurveda returns to. 🍚\n\nKhichdi is rice and split dal cooked together until soft, with a little ghee and mild spice. Warm, soft, cooked long and simply spiced: everything about it is easy on digestion, which is why it is the meal for recovery.\n\nIt is gentle food. An illness still needs its own care.\n\nEverything, in one pot. Part 1 and Part 3 sit on either side of this reel.",
+          "first_comment": "#Khichdi #Ayurveda #HealingFood #Agni #AyurvedaIndia #LearnAyurveda #IndianKitchen",
+          "cover": "media/khichdi/cover.jpg",
+          "caption_fb": "The lightest meal Ayurveda returns to. 🍚\n\nKhichdi is rice and split dal cooked together until soft, with a little ghee and mild spice. Warm, soft, cooked long and simply spiced: everything about it is easy on digestion, which is why it is the meal for recovery.\n\nIt is gentle food. An illness still needs its own care.\n\nBoth carousels on our page go further."
+        },
+        {
+          "slot": "left",
+          "type": "carousel",
+          "title": "The simplest meal",
+          "media": [
+            "media/khichdi/L1.jpg",
+            "media/khichdi/L2.jpg",
+            "media/khichdi/L3.jpg",
+            "media/khichdi/L4.jpg",
+            "media/khichdi/L5.jpg",
+            "media/khichdi/L6.jpg",
+            "media/khichdi/L7.jpg"
+          ],
+          "thumb": "media/khichdi/t_left.jpg",
+          "caption": "Khichdi: the simplest meal, and why it matters. 🍚\n\nPart 1 of tonight's posts. Swipe through:\n\n1. What it is: rice, dal, a little ghee\n2. Why it is light: easy on Agni\n3. Where it is used: after illness and cleansing\n4. The food week, in one pot\n5. Not a cure in a bowl\n\nThen watch the reel beside this post, and read Part 3 for the whole week on one page.",
+          "first_comment": "#Khichdi #Ayurveda #Kitchari #Ahara #AyurvedaIndia #LearnAyurveda #Digestion",
+          "alt": [
+            "Cover: The simplest meal. Khichdi: rice, dal, a little ghee, and time.",
+            "Rice, dal, a little ghee. Khichdi is rice and split dal cooked together until soft, usually with a little ghee and mild spice. It is one of the most familiar meals in India, and one of the lightest. In One Line: Soft, warm, simple, and easy to digest.",
+            "Easy on Agni. Everything about khichdi makes it easy to digest: it is warm, soft, cooked for a long time and simply spiced. That fits the tradition's constant concern with protecting digestion.",
+            "After illness, after cleansing. Traditionally khichdi is a meal for recovery, and the diet that follows cleansing therapies moves gradually from thin gruels to fuller meals. Soft rice and dal preparations sit on that path.",
+            "Everything this week, in one bowl. Khichdi happens to gather most of the week's ideas. six tastes, warm, proper quantity, no clashing pairs, a little ghee.",
+            "Not a cure in a bowl. Khichdi is a light, familiar meal. We will not claim it heals any illness or detoxes anything. When you are unwell, it is gentle food, and an illness still needs its own care.",
+            "Part 3: Part 3: everything, in one pot. The whole food week, on a single page."
+          ]
+        }
+      ]
+    }
+  ]
+}

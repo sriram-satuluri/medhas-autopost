@@ -1,0 +1,61 @@
+name: Autopost
+
+# Every 15 minutes the bot checks queue.json. Most runs end in seconds with "nothing due".
+# Once a day after settings.post_time it posts the next approved grid day to Instagram and Facebook.
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "normal = follow the schedule · now = post the next day immediately · dry-run = check only"
+        type: choice
+        options: [normal, now, dry-run]
+        default: normal
+
+permissions:
+  contents: write
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            /queue.json
+            /status.json
+            /publisher/
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Publish what is due
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+        run: |
+          MODE="${{ github.event.inputs.mode || 'normal' }}"
+          case "$MODE" in
+            now) node publisher/publish.mjs --now ;;
+            dry-run) node publisher/publish.mjs --dry-run ;;
+            *) node publisher/publish.mjs ;;
+          esac
+
+      - name: Save status
+        if: always()
+        run: |
+          git config user.name "medhas-autopost"
+          git config user.email "medhas-autopost@users.noreply.github.com"
+          git add status.json
+          if ! git diff --cached --quiet; then
+            git commit -m "status: $(date -u +%Y-%m-%dT%H:%MZ)"
+            for i in 1 2 3; do git pull --rebase --quiet && git push --quiet && break; sleep 5; done
+          fi
