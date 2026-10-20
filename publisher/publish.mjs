@@ -274,7 +274,11 @@ async function dryRun() {
 async function main() {
   if (DRY) return dryRun();
   if (S.paused) return log('paused in queue.json settings, nothing to do');
-  if (!token) throw new Error('META_PAGE_TOKEN is not set (GitHub repository secret)');
+  if (!token) {
+    // Not a failure, so a repo without its secret yet does not email a red run every 15 minutes.
+    console.log('::warning::META_PAGE_TOKEN is not set yet (repository secret). Nothing will post until it is.');
+    return;
+  }
   await checkToken();
 
   const today = zoned();
